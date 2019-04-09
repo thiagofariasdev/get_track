@@ -31,7 +31,10 @@
       </div>
       <div class="site-mobile-menu-body"></div>
     </div> <!-- .site-mobile-menu -->
+
+
     <div class="site-navbar-wrap js-site-navbar bg-white">
+
       <div class="container">
         <div class="site-navbar bg-light">
           <a href="/" class="font-weight-bold">
@@ -40,7 +43,7 @@
           <div class="row align-items-center">
             <div class="col-3">
               <h4>
-                <a href="./index.html">Get Track</a>
+                <a href="/">Get Track</a>
               </h4>
             </div>
             <div class="col-9">
@@ -50,9 +53,9 @@
                       class="site-menu-toggle js-menu-toggle text-black"><span class="icon-menu h3"></span></a></div>
 
                   <ul class="site-menu js-clone-nav d-none d-lg-block">
-                    <li><a href="./products.html">Produtos</a></li>
-                    <li><a href="./cases.html">Cases de sucesso</a></li>
-                    <li class="active"><a href="./contact.html">Contato</a></li>
+                    <li><a href="./products.php">Produtos</a></li>
+                    <li class="active"><a href="./cases.php">Cases de sucesso</a></li>
+                    <li><a href="./contact.php">Contato</a></li>
                   </ul>
                 </div>
               </nav>
@@ -62,53 +65,63 @@
       </div>
     </div>
 
-    <div class="site-blocks-cover inner-page overlay" style="background-image: url(image/img-1.jpg);" data-aos="fade"
-      data-stellar-background-ratio="0.5">
-      <div class="row m-0 align-items-center justify-content-center">
-        <div class="col-md-6 text-center" data-aos="fade">
-          <h1 class="text-uppercase">Contact Us</h1>
-          <span class="caption d-block text-white">An Insurance Company</span>
-        </div>
-      </div>
-    </div>
-    <div class="py-5 bg-light">
+    <div class="site-section block-14 nav-direction-white">
       <div class="container">
-        <div class="row">
-          <div class="col-lg-12 relative">
-            <div class="fg-blue-cont">
-              <img src="./image/icone-1.png" style="height: 50%" />
-              <div class="fg-blue-name">
-                <h3 style="font-family: 'Default Font';color:#fff; ">Rafael Sousa Xavier</h3>
+        <div class="row mb-5">
+          <div class="col-md-12">
+            <h2 class="site-section-heading text-center text-uppercase">Testimonies</h2>
+          </div>
+        </div>
+        <div class="nonloop-block-14 owl-carousel">
+          <div class="p-5">
+            <div class="d-block block-testimony w-75 mx-auto text-center">
+              <div class="person w-25 mx-auto mb-4">
+                <img src="images/person_1.jpg" alt="Image" class="img-fluid rounded-circle">
               </div>
-            </div>
-            <div class="fg-blue">
-            </div>
-            <div style="height:30vh">
-              <div class="fg-blue-resp">
-                <h4 style="font-family: 'Default Font';">Rafael Sousa Xavier</h4>
-              </div>
-              <div style="padding: 17px;">
-                <h5><span class="icon-mail_outline"></span> rafael@gettrack.com.br</h5>
-                <p><span class="icon-phone"></span> (51) 3336 3699 | (51) 99735 4222</p>
+              <div>
+                <h2 class="h5 mb-4">Katie Johnson</h2>
+                <blockquote>&ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias accusantium qui
+                  optio,
+                  possimus necessitatibus voluptate aliquam velit nostrum tempora ipsam!&rdquo;</blockquote>
               </div>
             </div>
           </div>
-          <div class="col-lg-12 relative">
-            <div class="fg-blue-cont">
-              <img src="./image/icone-1.png" style="height: 50%" />
-              <div class="fg-blue-name">
-                <h3 style="font-family: 'Default Font';color:#fff; ">Cristiane Barcellos</h3>
+          <div class="p-5">
+            <div class="d-block block-testimony w-75 mx-auto text-center">
+              <div class="person w-25 mx-auto mb-4">
+                <img src="images/person_2.jpg" alt="Image" class="img-fluid rounded-circle">
+              </div>
+              <div>
+                <h2 class="h5 mb-4">Jun Mars</h2>
+                <blockquote>&ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias accusantium qui
+                  optio,
+                  possimus necessitatibus voluptate aliquam velit nostrum tempora ipsam!&rdquo;</blockquote>
               </div>
             </div>
-            <div class="fg-blue">
-            </div>
-            <div style="height:30vh">
-              <div class="fg-blue-resp">
-                <h4 style="font-family: 'Default Font';">Cristiane Barcellos</h4>
+          </div>
+          <div class="p-5">
+            <div class="d-block block-testimony w-75 mx-auto text-center">
+              <div class="person w-25 mx-auto mb-4">
+                <img src="images/person_3.jpg" alt="Image" class="img-fluid rounded-circle">
               </div>
-              <div style="padding: 17px;">
-                <h5><span class="icon-mail_outline"></span> cristiane@gettrack.com.br</h5>
-                <p><span class="icon-phone"></span> (51) 3336 3699 | (51) 99735 4222</p>
+              <div>
+                <h2 class="h5 mb-4">Shane Holmes</h2>
+                <blockquote>&ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias accusantium qui
+                  optio,
+                  possimus necessitatibus voluptate aliquam velit nostrum tempora ipsam!&rdquo;</blockquote>
+              </div>
+            </div>
+          </div>
+          <div class="p-5">
+            <div class="d-block block-testimony w-75 mx-auto text-center">
+              <div class="person w-25 mx-auto mb-4">
+                <img src="images/person_4.jpg" alt="Image" class="img-fluid rounded-circle">
+              </div>
+              <div>
+                <h2 class="h5 mb-4">Mark Johnson</h2>
+                <blockquote>&ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias accusantium qui
+                  optio,
+                  possimus necessitatibus voluptate aliquam velit nostrum tempora ipsam!&rdquo;</blockquote>
               </div>
             </div>
           </div>
@@ -123,10 +136,10 @@
               <div class="col-md-6">
                 <h3 class="footer-heading mb-4 text-white">Quick Menu</h3>
                 <ul class="list-unstyled">
-                  <li><a href="./index.html">Home</a></li>
-                  <li><a href="./products.html">Produtos</a></li>
-                  <li><a href="./cases.html">Cases de sucesso</a></li>
-                  <li><a href="./contact.html">Contato</a></li>
+                  <li><a href="/">Home</a></li>
+                  <li><a href="./products.php">Produtos</a></li>
+                  <li><a href="./cases.php">Cases de sucesso</a></li>
+                  <li><a href="./contact.php">Contato</a></li>
                 </ul>
               </div>
             </div>

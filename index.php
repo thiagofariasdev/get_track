@@ -44,7 +44,7 @@
           <div class="row align-items-center">
             <div class="col-3">
               <h4>
-                <a href="./index.html">Get Track</a>
+                <a href="/">Get Track</a>
               </h4>
             </div>
             <div class="col-9">
@@ -54,9 +54,9 @@
                       class="site-menu-toggle js-menu-toggle text-black"><span class="icon-menu h3"></span></a></div>
 
                   <ul class="site-menu js-clone-nav d-none d-lg-block">
-                    <li><a href="./products.html">Produtos</a></li>
-                    <li><a href="./cases.html">Cases de sucesso</a></li>
-                    <li><a href="./contact.html">Contato</a></li>
+                    <li><a href="./products.php">Produtos</a></li>
+                    <li><a href="./cases.php">Cases de sucesso</a></li>
+                    <li><a href="./contact.php">Contato</a></li>
                   </ul>
                 </div>
               </nav>
@@ -189,10 +189,10 @@
               <div class="col-md-6">
                 <h3 class="footer-heading mb-4 text-white">Quick Menu</h3>
                 <ul class="list-unstyled">
-                  <li><a href="./index.html">Home</a></li>
-                  <li><a href="./products.html">Produtos</a></li>
-                  <li><a href="./cases.html">Cases de sucesso</a></li>
-                  <li><a href="./contact.html">Contato</a></li>
+                  <li><a href="/">Home</a></li>
+                  <li><a href="./products.php">Produtos</a></li>
+                  <li><a href="./cases.php">Cases de sucesso</a></li>
+                  <li><a href="./contact.php">Contato</a></li>
                 </ul>
               </div>
             </div>

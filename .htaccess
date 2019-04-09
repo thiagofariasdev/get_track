@@ -1,5 +1,10 @@
-Options +SymLinksIfOwnerMatch 
-RewriteEngine On 
-RewriteCond %{REQUEST_FILENAME} !-f 
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /index.php [L]
+# Set the default handler
+#DirectoryIndex index.php index.html index.htm
+
+#<IfModule mod_rewrite.c>
+#  Options +SymLinksIfOwnerMatch 
+#  RewriteEngine On 
+#  RewriteCond %{REQUEST_FILENAME} !-f 
+#  RewriteCond %{REQUEST_FILENAME} !-d
+#  RewriteRule . /index.php [L]
+#</IfModule>
