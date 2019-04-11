@@ -54,9 +54,10 @@
                       class="site-menu-toggle js-menu-toggle text-black"><span class="icon-menu h3"></span></a></div>
 
                   <ul class="site-menu js-clone-nav d-none d-lg-block">
-                    <li><a href="./products">Produtos</a></li>
-                    <li><a href="./cases">Cases de sucesso</a></li>
-                    <li><a href="./contact">Contato</a></li>
+                    <li><a href="#sobre">Sobre</a></li>
+                    <li><a href="#produtos">Produtos</a></li>
+                    <li><a href="#cases">Cases de sucesso</a></li>
+                    <li><a href="./contact.php">Contato</a></li>
                   </ul>
                 </div>
               </nav>
@@ -73,8 +74,8 @@
         <div class="container">
           <div class="row align-items-center">
             <div class="col-md-6" data-aos="fade">
-              <h1 class="font-secondary font-weight-bold text-uppercase">Small Business Insurance Agency</h1>
-              <span class="caption d-block text-white">An Insurance Company</span>
+              <h1 class="font-secondary font-weight-bold text-uppercase">Segurança e proteção em foco</h1>
+              <span class="caption d-block text-white">Uma empresa de segurança</span>
             </div>
           </div>
         </div>
@@ -85,81 +86,106 @@
         <div class="container">
           <div class="row align-items-center justify-content-center">
             <div class="col-md-7 text-center" data-aos="fade">
-              <h1 class="font-secondary font-weight-bold text-uppercase">Insurance Coverage To Meet Your Needs</h1>
-              <span class="caption d-block text-white">You Will Love Our Services</span>
+              <h1 class="font-secondary font-weight-bold text-uppercase">Cobertura e agilidade</h1>
+              <span class="caption d-block text-white">Conheça nosso sistema de rastreamento</span>
             </div>
           </div>
         </div>
       </div>
 
     </div>
+    
+    <div id="sobre" class="site-half">
+      <div class="img-bg-1" style="background-image: url('image/bg.jpg');"></div>
+        <div class="container">
+          <div class="row no-gutters align-items-stretch">
+            <div class="col-md-5 ml-md-auto py-5">
+              <span class="caption d-block mb-2 font-secondary font-weight-bold">Sobre a get track</span>
+              <h2 class="site-section-heading text-uppercase font-secondary mb-5">Quem somos?</h2>
+              <p>A GetTrack é uma empresa de rastreamento de veículos, motos e cargas que combina segurança, facilidade de uso,
+                qualidade e tecnologias de última geração no serviço de localização, bloqueio total e telemetria dos veículos. Tudo isso
+                aliando o melhor equipamento à melhor tecnologia e infra-estrutura de rastreamento.</p>
+            </div>
+          </div>
+      </div>
+    </div>
+    <div class="site-half">
+      <div class="img-bg-1 right" style="background-image: url('image/img-4.jpg');"></div>
+        <div class="container">
+          <div class="row no-gutters align-items-stretch">
+            <div class="col-md-5 mr-md-auto py-5">
+              <span class="caption d-block mb-2 font-secondary font-weight-bold">Sobre a get track</span>
+              <h2 class="site-section-heading text-uppercase font-secondary mb-5">Tecnologia</h2>
+              <p>Um aplicativo fácil de usar apresenta na palma de sua mão, pelo celular ou
+                tablet, todo descolamento de seu veículo ou carga. Apresenta também
+                relatórios de eficiência, checagem de itinerários, velocidade controlada,
+                tempo de parada ou desvio de rotas previamente traçadas. Você também
+                poderá programar avisos ou alertas que avisaram caso haja qualquer
+                alteração.</p>
+            </div>
+          </div>
+      </div>
+    </div>
 
     <div class="site-section">
       <div class="container">
-        <div class="row mb-5">
-          <div class="col-md-12 text-center">
-            <span class="caption d-block mb-2 font-secondary font-weight-bold">Outstanding Services</span>
-            <h2 class="site-section-heading text-uppercase text-center font-secondary">Why Choose Us</h2>
-          </div>
-        </div>
         <div class="row border-responsive">
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-0 border-right">
             <div class="text-center">
               <span class="flaticon-group display-4 d-block mb-3 text-primary"></span>
-              <h3 class="text-uppercase h4 mb-3">Trusted People</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque, nobis?</p>
+              <h3 class="text-uppercase h4 mb-3">Segurança</h3>
+              <p> Monitoramento, Rastreamento e Bloqueio 24/7 </p>
             </div>
           </div>
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-0 border-right">
             <div class="text-center">
               <span class="flaticon-medal display-4 d-block mb-3 text-primary"></span>
-              <h3 class="text-uppercase h4 mb-3">12 Years Experience</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque, nobis?</p>
+              <h3 class="text-uppercase h4 mb-3">Cobertura</h3>
+              <p>Abrangência em toda América Latina, integrado a aplicativo de acompanhamento</p>
             </div>
           </div>
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
             <div class="text-center">
               <span class="flaticon-agreement display-4 d-block mb-3 text-primary"></span>
-              <h3 class="text-uppercase h4 mb-3">Join With Us</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque, nobis?</p>
+              <h3 class="text-uppercase h4 mb-3">Agilidade</h3>
+              <p> Tenha tudo na palma da mão pelo app de instalação fácil e rápida</p>
             </div>
           </div>
         </div>
       </div>
     </div>
+
     <!-- IMAGES -->
-    <div class="site-section">
+    <div class="site-section" id="produtos">
       <div class="container">
         <div class="row">
           <div class="col-md-12 text-center">
-            <span class="caption d-block mb-2 font-secondary font-weight-bold">Products &amp; Services</span>
-            <h2 class="site-section-heading text-uppercase text-center font-secondary">Insurance Coverage</h2>
+            <span class="caption d-block mb-2 font-secondary font-weight-bold">Segurança e rastreamento</span>
+            <h2 class="site-section-heading text-uppercase text-center font-secondary">Nossos Produtos</h2>
           </div>
         </div>
         <div class="row">
           <div class="col-md-12 block-13 nav-direction-white">
             <div class="nonloop-block-13 owl-carousel">
               <div class="media-image">
-                <img src="image/img-2.jpg" alt="Image" class="img-fluid">
+                <img src="image/img-4.jpg" alt="Image" class="img-fluid">
                 <div class="media-image-body">
-                  <h2 class="font-secondary text-uppercase">Home Insurance</h2>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga, voluptate.</p>
-                  <p><a href="#" class="btn btn-primary text-white px-4"><span class="caption">Learn More</span></a></p>
+                  <h2 class="font-secondary text-uppercase">Para você</h2>
+                  <p>Monitoramento, rastreamento e bloqueio do seu veículo, em caso de roubo ou furto.
+                  Você aciona o serviço de busca...</p>
+                  <p>
+                    <a href="#" class="btn btn-primary text-white px-4">
+                      <span class="caption">Saiba Mais</span>
+                    </a>
+                  </p>
                 </div>
               </div>
               <div class="media-image">
                 <img src="image/img-3.jpg" alt="Image" class="img-fluid">
                 <div class="media-image-body">
-                  <h2 class="font-secondary text-uppercase">Auto Insurance</h2>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga, voluptate.</p>
-                  <p><a href="#" class="btn btn-primary text-white px-4"><span class="caption">Learn More</span></a></p>
-                </div>
-              </div>
-              <div class="media-image">
-                <img src="image/img-4.jpg" alt="Image" class="img-fluid">
-                <div class="media-image-body">
-                  <h2 class="font-secondary text-uppercase">Travel Insurance</h2>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga, voluptate.</p>
+                  <h2 class="font-secondary text-uppercase">Para seu negócio</h2>
+                  <p>A Get Track chegou ao mercado com um sistema exclusivo de rastreamento, em tempo real, 
+                    até em área de sombra...</p>
                   <p><a href="#" class="btn btn-primary text-white px-4"><span class="caption">Learn More</span></a></p>
                 </div>
               </div>
@@ -181,6 +207,7 @@
         </div>
       </div>
     </div>
+
     <footer class="site-footer">
       <div class="container">
         <div class="row">
