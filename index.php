@@ -52,11 +52,9 @@
                 <div class="container">
                   <div class="d-inline-block d-lg-none ml-md-0 mr-auto py-3"><a href="#"
                       class="site-menu-toggle js-menu-toggle text-black"><span class="icon-menu h3"></span></a></div>
-
                   <ul class="site-menu js-clone-nav d-none d-lg-block">
                     <li><a href="#sobre">Sobre</a></li>
                     <li><a href="#produtos">Produtos</a></li>
-                    <li><a href="#cases">Cases de sucesso</a></li>
                     <li><a href="./contact.php">Contato</a></li>
                   </ul>
                 </div>
@@ -188,6 +186,127 @@
                     até em área de sombra...</p>
                   <p><a href="#" class="btn btn-primary text-white px-4"><span class="caption">Learn More</span></a></p>
                 </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="site-section" id="precos">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 text-center">
+            <span class="caption d-block mb-2 font-secondary font-weight-bold">Segurança e rastreamento</span>
+            <h2 class="site-section-heading text-uppercase text-center font-secondary">Pacotes de serviços</h2>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-4">
+            <div class="card">
+              <div class="card-head p-2">
+                <h3 class="text-center">Safe</h3>
+                <table class="table">
+                  <tbody>
+                    <tr>
+                      <td>carro</td>
+                      <td>S</td>
+                    </tr>
+                    <tr>
+                      <td>Moto</td>
+                      <td>s</td>
+                    </tr>
+                    <tr>
+                      <td>Frota</td>
+                      <td>s</td>
+                    </tr>
+                    <tr>
+                      <td>Carga</td>
+                      <td>s</td>
+                    </tr>
+                    <tr>
+                      <td>Autônomo</td>
+                      <td>s</td>
+                    </tr>
+                    <tr>
+                      <td colspan='2'>
+                        <button class="btn btn-success">a</button>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="card">
+              <div class="card-head p-2">
+                <h3 class="text-center">Safe</h3>
+                <table class="table">
+                  <tbody>
+                    <tr>
+                      <td>carro</td>
+                      <td>S</td>
+                    </tr>
+                    <tr>
+                      <td>Moto</td>
+                      <td>s</td>
+                    </tr>
+                    <tr>
+                      <td>Frota</td>
+                      <td>s</td>
+                    </tr>
+                    <tr>
+                      <td>Carga</td>
+                      <td>s</td>
+                    </tr>
+                    <tr>
+                      <td>Autônomo</td>
+                      <td>s</td>
+                    </tr>
+                    <tr>
+                      <td colspan='2'>
+                        <button class="btn btn-success">a</button>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="card">
+              <div class="card-head p-2">
+                <h3 class="text-center">Safe</h3>
+                <table class="table">
+                  <tbody>
+                    <tr>
+                      <td>carro</td>
+                      <td>S</td>
+                    </tr>
+                    <tr>
+                      <td>Moto</td>
+                      <td>s</td>
+                    </tr>
+                    <tr>
+                      <td>Frota</td>
+                      <td>s</td>
+                    </tr>
+                    <tr>
+                      <td>Carga</td>
+                      <td>s</td>
+                    </tr>
+                    <tr>
+                      <td>Autônomo</td>
+                      <td>s</td>
+                    </tr>
+                    <tr>
+                      <td colspan='2'>
+                        <button class="btn btn-success">a</button>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
               </div>
             </div>
           </div>
