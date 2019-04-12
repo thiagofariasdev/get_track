@@ -19,6 +19,17 @@
   <link rel="stylesheet" href="./fonts/flaticon/font/flaticon.css">
   <link rel="stylesheet" href="./css/aos.css">
   <link rel="stylesheet" href="./css/style.css">
+  <style>
+    .block{
+      width: 100%;
+    }
+    i.icon-check{
+      color: #28a745
+    }
+    i.icon-remove{
+      color: #f00
+    }
+  </style>
 </head>
 
 <body style="background-image: url('image/img-1.jpg');">
@@ -55,6 +66,7 @@
                   <ul class="site-menu js-clone-nav d-none d-lg-block">
                     <li><a href="#sobre">Sobre</a></li>
                     <li><a href="#produtos">Produtos</a></li>
+                    <li><a href="#precos">Preços</a></li>
                     <li><a href="./contact.php">Contato</a></li>
                   </ul>
                 </div>
@@ -209,28 +221,38 @@
                 <table class="table">
                   <tbody>
                     <tr>
-                      <td>carro</td>
-                      <td>S</td>
+                      <td><b>Carros</b></td>
+                      <td>
+                        <i class="icon-check"></i>
+                      </td>
                     </tr>
                     <tr>
-                      <td>Moto</td>
-                      <td>s</td>
+                      <td><b>Motos</b></td>
+                      <td>
+                        <i class="icon-check"></i>
+                      </td>
                     </tr>
                     <tr>
-                      <td>Frota</td>
-                      <td>s</td>
+                      <td><b>Frota</b></td>
+                      <td>
+                        <i class="icon-remove"></i>
+                      </td>
                     </tr>
                     <tr>
-                      <td>Carga</td>
-                      <td>s</td>
+                      <td><b>Carga</b></td>
+                      <td>
+                        <i class="icon-remove"></i>
+                      </td>
                     </tr>
                     <tr>
-                      <td>Autônomo</td>
-                      <td>s</td>
+                      <td><b>Autônomo</b></td>
+                      <td>
+                        <i class="icon-remove"></i>
+                      </td>
                     </tr>
                     <tr>
                       <td colspan='2'>
-                        <button class="btn btn-success">a</button>
+                        <button class="btn btn-success block">R$000,00</button>
                       </td>
                     </tr>
                   </tbody>
@@ -241,32 +263,42 @@
           <div class="col-md-4">
             <div class="card">
               <div class="card-head p-2">
-                <h3 class="text-center">Safe</h3>
+                <h3 class="text-center">Safe Plus</h3>
                 <table class="table">
                   <tbody>
                     <tr>
-                      <td>carro</td>
-                      <td>S</td>
+                      <td><b>Carros</b></td>
+                      <td>
+                        <i class="icon-check"></i>
+                      </td>
                     </tr>
                     <tr>
-                      <td>Moto</td>
-                      <td>s</td>
+                      <td><b>Motos</b></td>
+                      <td>
+                        <i class="icon-check"></i>
+                      </td>
                     </tr>
                     <tr>
-                      <td>Frota</td>
-                      <td>s</td>
+                      <td><b>Frota</b></td>
+                      <td>
+                        <i class="icon-check"></i>
+                      </td>
                     </tr>
                     <tr>
-                      <td>Carga</td>
-                      <td>s</td>
+                      <td><b>Carga</b></td>
+                      <td>
+                        <i class="icon-remove"></i>
+                      </td>
                     </tr>
                     <tr>
-                      <td>Autônomo</td>
-                      <td>s</td>
+                      <td><b>Autônomo</b></td>
+                      <td>
+                        <i class="icon-check"></i>
+                      </td>
                     </tr>
                     <tr>
                       <td colspan='2'>
-                        <button class="btn btn-success">a</button>
+                        <button class="btn btn-success block">R$000,00</button>
                       </td>
                     </tr>
                   </tbody>
@@ -277,32 +309,42 @@
           <div class="col-md-4">
             <div class="card">
               <div class="card-head p-2">
-                <h3 class="text-center">Safe</h3>
+                <h3 class="text-center">Safe Ultra</h3>
                 <table class="table">
                   <tbody>
                     <tr>
-                      <td>carro</td>
-                      <td>S</td>
+                      <td><b>Carros</b></td>
+                      <td>
+                        <i class="icon-check"></i>
+                      </td>
                     </tr>
                     <tr>
-                      <td>Moto</td>
-                      <td>s</td>
+                      <td><b>Motos</b></td>
+                      <td>
+                        <i class="icon-check"></i>
+                      </td>
                     </tr>
                     <tr>
-                      <td>Frota</td>
-                      <td>s</td>
+                      <td><b>Frota</b></td>
+                      <td>
+                        <i class="icon-check"></i>
+                      </td>
                     </tr>
                     <tr>
-                      <td>Carga</td>
-                      <td>s</td>
+                      <td><b>Carga</b></td>
+                      <td>
+                        <i class="icon-check"></i>
+                      </td>
                     </tr>
                     <tr>
-                      <td>Autônomo</td>
-                      <td>s</td>
+                      <td><b>Autônomo</b></td>
+                      <td>
+                        <i class="icon-check"></i>
+                      </td>
                     </tr>
                     <tr>
                       <td colspan='2'>
-                        <button class="btn btn-success">a</button>
+                        <button class="btn btn-success block">R$000,00</button>
                       </td>
                     </tr>
                   </tbody>
@@ -318,7 +360,7 @@
       <div class="container">
         <div class="row align-items-center">
           <div class="col-md-6 text-center text-md-left mb-3 mb-md-0">
-            <h2 class="text-uppercase text-white mb-0">Small Business Insurance Company</h2>
+            <h2 class="text-uppercase text-white mb-0">Segurança para sua empresa</h2>
           </div>
           <div class="col-md-3 ml-auto text-center text-md-left">
             <a href="#" class="btn btn-bg-primary d-inline-block d-md-block font-secondary text-uppercase">Contato</a>
@@ -335,9 +377,9 @@
               <div class="col-md-6">
                 <h3 class="footer-heading mb-4 text-white">Quick Menu</h3>
                 <ul class="list-unstyled">
-                  <li><a href="/">Home</a></li>
-                  <li><a href="./products">Produtos</a></li>
-                  <li><a href="./cases">Cases de sucesso</a></li>
+                  <li><a href="#sobre">Sobre</a></li>
+                  <li><a href="#produtos">Nossos Produtos</a></li>
+                  <li><a href="#precos">Preços</a></li>
                   <li><a href="./contact">Contato</a></li>
                 </ul>
               </div>

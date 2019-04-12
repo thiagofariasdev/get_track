@@ -43,20 +43,6 @@
                 <a href="/">Get Track</a>
               </h4>
             </div>
-            <div class="col-9">
-              <nav class="site-navigation text-right" role="navigation">
-                <div class="container">
-                  <div class="d-inline-block d-lg-none ml-md-0 mr-auto py-3"><a href="#"
-                      class="site-menu-toggle js-menu-toggle text-black"><span class="icon-menu h3"></span></a></div>
-
-                  <ul class="site-menu js-clone-nav d-none d-lg-block">
-                    <li><a href="./products">Produtos</a></li>
-                    <li><a href="./cases">Cases de sucesso</a></li>
-                    <li class="active"><a href="./contact">Contato</a></li>
-                  </ul>
-                </div>
-              </nav>
-            </div>
           </div>
         </div>
       </div>
@@ -124,9 +110,6 @@
                 <h3 class="footer-heading mb-4 text-white">Quick Menu</h3>
                 <ul class="list-unstyled">
                   <li><a href="/">Home</a></li>
-                  <li><a href="./products">Produtos</a></li>
-                  <li><a href="./cases">Cases de sucesso</a></li>
-                  <li><a href="./contact">Contato</a></li>
                 </ul>
               </div>
             </div>
