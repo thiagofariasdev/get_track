@@ -6,18 +6,18 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <link rel="preload" onload="this.rel = 'stylesheet'" as="style" href="./css/font.css">
-  <link href="https://fonts.googleapis.com/css?family=Oswald:400,700|Work+Sans:300,400,700" rel="stylesheet">
+  <link rel="preload" onload="this.rel = 'stylesheet'" as="style" href="https://fonts.googleapis.com/css?family=Oswald:400,700|Work+Sans:300,400,700">
   <link rel="preload" onload="this.rel = 'stylesheet'" as="style" href="./fonts/icomoon/style.css">
   <link rel="stylesheet" href="./css/bootstrap.min.css">
-  <link rel="stylesheet" disabled href="./css/magnific-popup.css">
+  <link rel="preload" onload="this.rel = 'stylesheet'" as="style" disabled href="./css/magnific-popup.css">
   <link rel="preload" onload="this.rel = 'stylesheet'" as="style" href="./css/jquery-ui.css">
-  <link rel="stylesheet" href="./css/owl.carousel.min.css">
-  <link rel="stylesheet" href="./css/owl.theme.default.min.css">
-  <link rel="stylesheet" href="./css/bootstrap-datepicker.css">
+  <link rel="preload" onload="this.rel = 'stylesheet'" as="style" href="./css/owl.carousel.min.css">
+  <link rel="preload" onload="this.rel = 'stylesheet'" as="style" href="./css/owl.theme.default.min.css">
+  <link rel="preload" onload="this.rel = 'stylesheet'" as="style" disabled href="./css/bootstrap-datepicker.css">
   <link rel="preload" onload="this.rel = 'stylesheet'" as="style" href="./css/animate.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mediaelement@4.2.7/build/mediaelementplayer.min.css">
+  <link rel="preload" onload="this.rel = 'stylesheet'" as="style" href="https://cdn.jsdelivr.net/npm/mediaelement@4.2.7/build/mediaelementplayer.min.css">
   <link rel="preload" onload="this.rel = 'stylesheet'" as="style" href="./fonts/flaticon/font/flaticon.css">
-  <link rel="stylesheet" href="./css/aos.css">
+  <link rel="preload" onload="this.rel = 'stylesheet'" as="style" href="./css/aos.css">
   <link rel="stylesheet" href="./css/style.css">
   <style>
     .block{
@@ -123,7 +123,7 @@
             <p>
               <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
               Copyright &copy;
-              <script>document.write(new Date().getFullYear());</script> All Rights Reserved | This template is made
+              <?php echo date('Y', time());?> All Rights Reserved | This template is made
               with <i class="icon-heart text-danger" aria-hidden="true"></i> by <a href="https://colorlib.com"
                 target="_blank">Colorlib</a>
               <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
