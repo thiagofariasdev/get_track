@@ -100,7 +100,7 @@
             <div class="text-center">
               <span class="caption d-block mb-2 font-secondary font-weight-bold">Para você</span>
             </div>
-            <h4>Seu Carro</h4>
+            <h4 class="text-center">Seu Carro</h4>
             <p>Monitoramento, rastreamento e bloqueio do seu veículo, em caso de roubo ou furto.
               Você aciona o serviço de busca, disponível em toda América Latina, 24 horas 7 dias na
               semana que todas as providências serão tomadas, junto as autoridades, para resgate do
@@ -108,7 +108,7 @@
               <p>Tudo isso na palma da mão, pelo aplicativo Get Track. Você ainda vai utilizar dos dados da
               Telemetria do seu carro, com alertas e avisos programados por você para manutenção,
               consumo de combustível, perímetro de movimentação do veículo.</p>
-            <h4>Sua Moto</h4>
+            <h4 class="text-center">Sua Moto</h4>
             <p>Monitoramento, rastreamento e bloqueio de sua moto, em caso de roubo ou furto.
               Você aciona o serviço de busca, disponível em toda América Latina, 24 horas 7 dias
               na semana que todas as providencias providências serão tomadas, junto as
@@ -121,7 +121,7 @@
             <div class="text-center">
               <span class="caption d-block mb-2 font-secondary font-weight-bold">Para o seu negócio</span>
             </div>
-            <h4>Sua Frota</h4>
+            <h4 class="text-center">Sua Frota</h4>
             <p>Controle sua frota e otimize recursos gerando mais resultados.
               A Get Track chegou ao mercado com um sistema exclusivo de
               rastreamento, em tempo real, até em área de sombra, oferecendo aos
@@ -136,7 +136,7 @@
                 <li>Tempo de parada e padrões de dirigibilidade</li>
                 <li>Jornada de Trabalho dos seus motoristas</li>
               </ul>
-            <h4>Sua Carga</h4>
+            <h4 class="text-center">Sua Carga</h4>
             <p>Rastreie sua carga em tempo real, inclusive em áreas de
               sombra acompanhando todo trajeto, paradas, desvio de
               rotas e velocidade até o destino final.</p><p>
@@ -147,7 +147,7 @@
               Compile os resultados analisando os dados capturados e
               armazenados pela telemetria para buscar eficiência nos
               negócios.</p>
-            <h4>Autonomos</h4>
+            <h4 class="text-center">Autônomos</h4>
             <p>Motoristas autônomos dependem totalmente do carro ou caminhão
               para exercer sua atividade profissional. Só o sistema de rastreamento
               pode oferecer a tranquilidade aumentando substancialmente a
