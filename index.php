@@ -81,7 +81,7 @@
       </div>
     </div>
 
-    <div class="slide-one-item home-slider owl-carousel">
+    <div class="slide-one-item home-slider owl-carousel mb-3">
 
       <div class="site-blocks-cover inner-page overlay" style="background-image: url(image/img-1.jpg);" data-aos="fade"
         data-stellar-background-ratio="0.5">

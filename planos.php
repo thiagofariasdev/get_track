@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-   <title>Get Track</title>
+  <title>Get Track</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <link rel="preload" onload="this.rel = 'stylesheet'" as="style" href="./css/font.css">
