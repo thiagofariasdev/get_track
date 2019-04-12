@@ -5,20 +5,34 @@
   <title>Get Track</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <link rel="stylesheet" href="./css/font.css">
+  <link rel="preload" onload="this.rel = 'stylesheet'" as="style" href="./css/font.css">
   <link href="https://fonts.googleapis.com/css?family=Oswald:400,700|Work+Sans:300,400,700" rel="stylesheet">
-  <link rel="stylesheet" href="./fonts/icomoon/style.css">
+  <link rel="preload" onload="this.rel = 'stylesheet'" as="style" href="./fonts/icomoon/style.css">
   <link rel="stylesheet" href="./css/bootstrap.min.css">
-  <link rel="stylesheet" href="./css/magnific-popup.css">
-  <link rel="stylesheet" href="./css/jquery-ui.css">
+  <link rel="stylesheet" disabled href="./css/magnific-popup.css">
+  <link rel="preload" onload="this.rel = 'stylesheet'" as="style" href="./css/jquery-ui.css">
   <link rel="stylesheet" href="./css/owl.carousel.min.css">
   <link rel="stylesheet" href="./css/owl.theme.default.min.css">
   <link rel="stylesheet" href="./css/bootstrap-datepicker.css">
-  <link rel="stylesheet" href="./css/animate.css">
+  <link rel="preload" onload="this.rel = 'stylesheet'" as="style" href="./css/animate.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mediaelement@4.2.7/build/mediaelementplayer.min.css">
-  <link rel="stylesheet" href="./fonts/flaticon/font/flaticon.css">
+  <link rel="preload" onload="this.rel = 'stylesheet'" as="style" href="./fonts/flaticon/font/flaticon.css">
   <link rel="stylesheet" href="./css/aos.css">
   <link rel="stylesheet" href="./css/style.css">
+  <style>
+    .block{
+      width: 100%;
+    }
+    i.icon-check{
+      color: #28a745
+    }
+    i.icon-remove{
+      color: #f00
+    }
+    span.caption.d-block.text-white{
+      text-shadow: 1px 1px #000;
+    }
+  </style>
 </head>
 
 <body style="background-image: url('image/img-1.jpg');">
@@ -64,25 +78,6 @@
             <div class="fg-blue-cont">
               <img src="./image/icone-1.png" style="height: 50%" />
               <div class="fg-blue-name">
-                <h3 style="font-family: 'Default Font';color:#fff; ">Rafael Sousa Xavier</h3>
-              </div>
-            </div>
-            <div class="fg-blue">
-            </div>
-            <div style="height:30vh">
-              <div class="fg-blue-resp">
-                <h4 style="font-family: 'Default Font';">Rafael Sousa Xavier</h4>
-              </div>
-              <div style="padding: 17px;">
-                <h5><span class="icon-mail_outline"></span> rafael@gettrack.com.br</h5>
-                <p><span class="icon-phone"></span> (51) 3336 3699 | (51) 99735 4222</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-12 relative">
-            <div class="fg-blue-cont">
-              <img src="./image/icone-1.png" style="height: 50%" />
-              <div class="fg-blue-name">
                 <h3 style="font-family: 'Default Font';color:#fff; ">Cristiane Barcellos</h3>
               </div>
             </div>
@@ -94,7 +89,7 @@
               </div>
               <div style="padding: 17px;">
                 <h5><span class="icon-mail_outline"></span> cristiane@gettrack.com.br</h5>
-                <p><span class="icon-phone"></span> (51) 3336 3699 | (51) 99735 4222</p>
+                <p><span class="icon-phone"></span> (51) 996323956</p>
               </div>
             </div>
           </div>
