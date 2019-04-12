@@ -106,7 +106,7 @@
     </div>
     
     <div id="sobre" class="site-half">
-      <div class="img-bg-1" style="background-image: url('image/bg.jpg');"></div>
+      <div class="img-bg-1" id="site-half-2"></div>
         <div class="container">
           <div class="row no-gutters align-items-stretch">
             <div class="col-md-5 ml-md-auto py-5">
@@ -120,7 +120,7 @@
       </div>
     </div>
     <div class="site-half">
-      <div class="img-bg-1 right" style="background-image: url('image/img-4.jpg');"></div>
+      <div class="img-bg-1 right" id="site-half-1"></div>
         <div class="container">
           <div class="row no-gutters align-items-stretch">
             <div class="col-md-5 mr-md-auto py-5">

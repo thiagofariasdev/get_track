@@ -1579,3 +1579,16 @@ h3.h5.text-black.mb-3{
     padding: 17px;
   }
 }
+#site-half-1{
+  background-image: url('./../image/img-4.jpg');
+}
+#site-half-2{
+  background-image: url('./../image/bg.jpg');
+}
+
+@media only screen and (max-width: 768px){
+  #site-half-1, #site-half-2{
+    background-color: #fff;
+    background-image: none !important;
+  }
+}
