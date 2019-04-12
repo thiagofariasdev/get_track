@@ -32,6 +32,27 @@
     span.caption.d-block.text-white{
       text-shadow: 1px 1px #000;
     }
+    div.owl-next{
+      background-color: transparent !important;
+    }
+    div.owl-prev{
+      background-color: transparent !important;
+    }
+    @media only screen and (max-width: 900px ){
+      h1.font-secondary.font-weight-bold.text-uppercase{
+        font-size: 4rem;
+      }
+    }
+    @media only screen and (max-width: 700px ){
+      h1.font-secondary.font-weight-bold.text-uppercase{
+        font-size: 3rem;
+      }
+    }
+    @media only screen and (max-width: 500px ){
+      h1.font-secondary.font-weight-bold.text-uppercase{
+        font-size: 2rem;
+      }
+    }
   </style>
 </head>
 
@@ -436,12 +457,12 @@
         <div class="row pt-5 mt-5 text-center">
           <div class="col-md-12">
             <p>
-              <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+              <!-- 
               Copyright &copy;
               <?php echo date('Y', time());?> All Rights Reserved | This template is made
               with <i class="icon-heart text-danger" aria-hidden="true"></i> by <a href="https://colorlib.com"
                 target="_blank">Colorlib</a>
-              <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+              Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
             </p>
           </div>
         </div>
