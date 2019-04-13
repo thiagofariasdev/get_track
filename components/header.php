@@ -25,15 +25,10 @@
               <div class="d-inline-block d-lg-none ml-md-0 mr-auto py-3"><a href="#"
                   class="site-menu-toggle js-menu-toggle text-black"><span class="icon-menu h3"></span></a></div>
               <ul class="site-menu js-clone-nav d-none d-lg-block">
-                <?php
-                  $div = '<li><a href="#sobre">Sobre</a></li>
-                  <li><a href="#produtos">Produtos</a></li>
-                  <!--li><a href="#precos">Preços</a></li-->
-                  <li><a href="./contact.php">Contato</a></li>';
-                  if($_SERVER['REQUEST_URI'] == '/'){
-                    echo $div;
-                  }
-                ?>
+                  <li><a href="/sobre">Sobre</a></li>
+                  <li><a href="/produtos">Produtos</a></li>
+                  <!--li><a href="/precos">Preços</a></li-->
+                  <li><a href="/contact">Contato</a></li>
                 <li><a href="https://sistema.getrak.com/88tec/mcomando/envio/setup" target="_blank">Login</a></li>
               </ul>
             </div>
