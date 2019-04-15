@@ -1,6 +1,7 @@
 <title>Get Track</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="description" content="Segurança para seus bens">
 <link rel="shortcut icon" href="/image/favicon.png" type="image/png">
 <link rel="preload" onload="this.rel = 'stylesheet'" as="style" href="/css/font.css">
 <link rel="preload" onload="this.rel = 'stylesheet'" as="style" href="https://fonts.googleapis.com/css?family=Oswald:400,700|Work+Sans:300,400,700">
