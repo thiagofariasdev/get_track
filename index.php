@@ -15,8 +15,8 @@
       <div class="site-blocks-cover inner-page overlay" style="background-image: url(image/img-1.jpg);" data-aos="fade"
         data-stellar-background-ratio="0.5">
         <div class="container">
-          <div class="row align-items-center">
-            <div class="col-md-6" data-aos="fade">
+          <div class="row align-items-center justify-content-center">
+            <div class="col-md-7 text-center" data-aos="fade">
               <h1 class="font-secondary font-weight-bold text-uppercase">Segurança e proteção em foco</h1>
               <span class="caption d-block text-white">Uma empresa de segurança</span>
             </div>
@@ -327,7 +327,7 @@
             <h2 class="text-uppercase text-white mb-0">Segurança para sua empresa</h2>
           </div>
           <div class="col-md-3 ml-auto text-center text-md-left">
-            <a href="/contato" class="btn btn-bg-primary d-inline-block d-md-block font-secondary text-uppercase">Contato</a>
+            <a href="/contact" class="btn btn-bg-primary d-inline-block d-md-block font-secondary text-uppercase">Contato</a>
           </div>
         </div>
       </div>
