@@ -26,7 +26,7 @@
                   class="site-menu-toggle js-menu-toggle text-black"><span class="icon-menu h3"></span></a></div>
               <ul class="site-menu js-clone-nav d-none d-lg-block">
                   <li><a href="/sobre">Sobre</a></li>
-                  <li><a href="/produtos">Produtos</a></li>
+                  <li><a href="/products">Produtos</a></li>
                   <!--li><a href="/precos">Preços</a></li-->
                   <!--li><a href="/app">Nosso App</a></li-->
                   <li><a href="/contact">Contato</a></li>
