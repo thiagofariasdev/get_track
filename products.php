@@ -46,6 +46,6 @@
     </div>
     <?php include('./components/footer.php')?>
   </div>
-  <?php include('./../components/scripts.php')?>
+  <?php include('./components/scripts.php')?>
 </body>
 </html>
