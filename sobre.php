@@ -49,7 +49,7 @@
             <div class="text-center">
               <img src="./image/secureicon.png" alt="SECURE" style="height:47px;margin-bottom:15px;">
               <h3 class="text-uppercase h4 mb-3">Segurança</h3>
-              <p> Monitoramento, Rastreamento e Bloqueio 24/7 </p>
+              <p> Monitoramento, Rastreamento e Bloqueio 24h </p>
             </div>
           </div>
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-0 border-right">
