@@ -47,21 +47,21 @@
         <div class="row border-responsive">
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-0 border-right">
             <div class="text-center">
-              <span class="flaticon-group display-4 d-block mb-3 text-primary"></span>
+              <img src="./image/secureicon.png" alt="SECURE" style="height:47px;margin-bottom:15px;">
               <h3 class="text-uppercase h4 mb-3">Segurança</h3>
               <p> Monitoramento, Rastreamento e Bloqueio 24/7 </p>
             </div>
           </div>
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-0 border-right">
             <div class="text-center">
-              <span class="flaticon-medal display-4 d-block mb-3 text-primary"></span>
+              <img src="./image/covericon.png" alt="COVER" style="height:47px;margin-bottom:15px;">
               <h3 class="text-uppercase h4 mb-3">Cobertura</h3>
               <p>Abrangência em toda América Latina, integrado a aplicativo de acompanhamento</p>
             </div>
           </div>
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
             <div class="text-center">
-              <span class="flaticon-agreement display-4 d-block mb-3 text-primary"></span>
+              <img src="./image/dashicon.png" alt="DASHICON" style="height:47px;margin-bottom:15px;">
               <h3 class="text-uppercase h4 mb-3">Agilidade</h3>
               <p> Tenha tudo na palma da mão pelo app de instalação fácil e rápida</p>
             </div>
