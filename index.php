@@ -111,7 +111,7 @@
           <div class="col-md-12 block-13 nav-direction-white">
             <div class="nonloop-block-13 owl-carousel">
               <div class="media-image">
-                <img src="image/img-4.jpg" alt="Image" class="img-fluid">
+                <img src="image/img-4-min.jpg" alt="Image" class="img-fluid">
                 <div class="media-image-body">
                   <h2 class="font-secondary text-uppercase">Para você</h2>
                   <p>Monitoramento, rastreamento e bloqueio do seu veículo, em caso de roubo ou furto.
@@ -124,7 +124,7 @@
                 </div>
               </div>
               <div class="media-image">
-                <img src="image/img-3.jpg" alt="Image" class="img-fluid">
+                <img src="image/img-3-min.jpg" alt="Image" class="img-fluid">
                 <div class="media-image-body">
                   <h2 class="font-secondary text-uppercase">Para seu negócio</h2>
                   <p>A Get Track chegou ao mercado com um sistema exclusivo de rastreamento, em tempo real, 
