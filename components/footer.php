@@ -7,7 +7,7 @@
             <h3 class="footer-heading mb-4 text-white">Quick Menu</h3>
             <ul class="list-unstyled">
               <li><a href="/sobre">Sobre</a></li>
-              <li><a href="/produtos">Nossos Produtos</a></li>
+              <li><a href="/products">Nossos Produtos</a></li>
               <!--li><a href="/#precos">Preços</a></li-->
               <!--li><a href="/app">Nosso App</a></li-->
               <li><a href="/contact">Contato</a></li>
