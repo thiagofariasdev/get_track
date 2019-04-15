@@ -9,7 +9,7 @@
               <li><a href="/sobre">Sobre</a></li>
               <li><a href="/produtos">Nossos Produtos</a></li>
               <!--li><a href="/#precos">Preços</a></li-->
-              <li><a href="/app">Nosso App</a></li>
+              <!--li><a href="/app">Nosso App</a></li-->
               <li><a href="/contact">Contato</a></li>
             </ul>
           </div>

@@ -1,21 +1,21 @@
 <title>Get Track</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<link rel="shortcut icon" href="./image/favicon.png" type="image/png">
-<link rel="preload" onload="this.rel = 'stylesheet'" as="style" href="./css/font.css">
+<link rel="shortcut icon" href="/image/favicon.png" type="image/png">
+<link rel="preload" onload="this.rel = 'stylesheet'" as="style" href="/css/font.css">
 <link rel="preload" onload="this.rel = 'stylesheet'" as="style" href="https://fonts.googleapis.com/css?family=Oswald:400,700|Work+Sans:300,400,700">
-<link rel="preload" onload="this.rel = 'stylesheet'" as="style" href="./fonts/icomoon/style.css">
-<link rel="stylesheet" href="./css/bootstrap.min.css">
-<link rel="preload" onload="this.rel = 'stylesheet'" as="style" href="./css/magnific-popup.css">
-<link rel="preload" onload="this.rel = 'stylesheet'" as="style" href="./css/jquery-ui.css">
-<link rel="preload" onload="this.rel = 'stylesheet'" as="style" href="./css/owl.carousel.min.css">
-<link rel="preload" onload="this.rel = 'stylesheet'" as="style" href="./css/owl.theme.default.min.css">
-<link rel="preload" onload="this.rel = 'stylesheet'" as="style" href="./css/bootstrap-datepicker.css">
-<link rel="preload" onload="this.rel = 'stylesheet'" as="style" href="./css/animate.css">
+<link rel="preload" onload="this.rel = 'stylesheet'" as="style" href="/fonts/icomoon/style.css">
+<link rel="stylesheet" href="/css/bootstrap.min.css">
+<link rel="preload" onload="this.rel = 'stylesheet'" as="style" href="/css/magnific-popup.css">
+<link rel="preload" onload="this.rel = 'stylesheet'" as="style" href="/css/jquery-ui.css">
+<link rel="preload" onload="this.rel = 'stylesheet'" as="style" href="/css/owl.carousel.min.css">
+<link rel="preload" onload="this.rel = 'stylesheet'" as="style" href="/css/owl.theme.default.min.css">
+<link rel="preload" onload="this.rel = 'stylesheet'" as="style" href="/css/bootstrap-datepicker.css">
+<link rel="preload" onload="this.rel = 'stylesheet'" as="style" href="/css/animate.css">
 <link rel="preload" onload="this.rel = 'stylesheet'" as="style" href="https://cdn.jsdelivr.net/npm/mediaelement@4.2.7/build/mediaelementplayer.min.css">
-<link rel="preload" onload="this.rel = 'stylesheet'" as="style" href="./fonts/flaticon/font/flaticon.css">
-<link rel="stylesheet" href="./css/aos.css">
-<link rel="stylesheet" href="./css/style.css">
+<link rel="preload" onload="this.rel = 'stylesheet'" as="style" href="/fonts/flaticon/font/flaticon.css">
+<link rel="stylesheet" href="/css/aos.css">
+<link rel="stylesheet" href="/css/style.css">
 <style>
   .block{
     width: 100%;
