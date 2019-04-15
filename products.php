@@ -24,7 +24,7 @@
                   <p>Monitoramento, rastreamento e bloqueio do seu veículo, em caso de roubo ou furto.
                   Você aciona o serviço de busca...</p>
                   <p>
-                    <a href="./planos" class="btn btn-primary text-white px-4">
+                    <a href="/produtos/personal" class="btn btn-primary text-white px-4">
                       <span class="caption">Saiba Mais</span>
                     </a>
                   </p>
@@ -36,7 +36,7 @@
                   <h2 class="font-secondary text-uppercase">Para seu negócio</h2>
                   <p>A Get Track chegou ao mercado com um sistema exclusivo de rastreamento, em tempo real, 
                     até em área de sombra...</p>
-                  <p><a href="./planos" class="btn btn-primary text-white px-4"><span class="caption">Saiba Mais</span></a></p>
+                  <p><a href="/produtos/business" class="btn btn-primary text-white px-4"><span class="caption">Saiba Mais</span></a></p>
                 </div>
               </div>
             </div>
@@ -46,17 +46,6 @@
     </div>
     <?php include('./components/footer.php')?>
   </div>
-  <script src="js/jquery-3.3.1.min.js"></script>
-  <script src="js/jquery-migrate-3.0.1.min.js"></script>
-  <script src="js/jquery-ui.js"></script>
-  <script src="js/popper.min.js"></script>
-  <script src="js/bootstrap.min.js"></script>
-  <script src="js/owl.carousel.min.js"></script>
-  <script src="js/jquery.stellar.min.js"></script>
-  <script src="js/jquery.countdown.min.js"></script>
-  <script src="js/jquery.magnific-popup.min.js"></script>
-  <script src="js/bootstrap-datepicker.min.js"></script>
-  <script src="js/aos.js"></script>
-  <script src="js/main.js"></script>
+  <?php include('./../components/scripts.php')?>
 </body>
 </html>

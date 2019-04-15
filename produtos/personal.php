@@ -23,12 +23,17 @@
               Você aciona o serviço de busca, disponível em toda América Latina, 24 horas 7 dias na
               semana que todas as providências serão tomadas, junto as autoridades, para resgate do
               seu carro.</p>
-              <p>Tudo isso na palma da mão, pelo aplicativo Get Track. Você ainda vai utilizar dos dados da
-              Telemetria do seu carro, com alertas e avisos programados por você para manutenção,
-              consumo de combustível, perímetro de movimentação do veículo.</p>
-            
+              
           </div>
           <div class="col-md-12">
+            <p>Tudo isso na palma da mão, pelo aplicativo Get Track. Você ainda vai utilizar dos dados da
+              Telemetria do seu carro, com alertas e avisos programados por você para manutenção,
+              consumo de combustível, perímetro de movimentação do veículo.</p>
+            <p>Disponivel nos planos: 
+              <span class="badge badge-light">Safe</span>
+              <span class="badge badge-dark">Safe Plus</span>
+              <span class="badge badge-warning">Safe Ultra</span>
+            </p>
             <h4>Sua Moto</h4>
             <p>Monitoramento, rastreamento e bloqueio de sua moto, em caso de roubo ou furto.
               Você aciona o serviço de busca, disponível em toda América Latina, 24 horas 7 dias
@@ -37,9 +42,11 @@
               Tudo isso na palma da mão, pelo aplicativo Get Track. Você ainda vai utilizar dos
               dados da Telemetria de sua moto, com alertas e avisos programados por você para
               manutenção, consumo de combustível, perímetro de movimentação do veículo.</p>
-          </div>
-          <div class="col-md-12">
-            
+            <p>Disponivel nos planos: 
+              <span class="badge badge-light">Safe</span>
+              <span class="badge badge-dark">Safe Plus</span>
+              <span class="badge badge-warning">Safe Ultra</span>
+            </p>
           </div>
         </div>
       </div>
