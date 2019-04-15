@@ -28,6 +28,7 @@
                   <li><a href="/sobre">Sobre</a></li>
                   <li><a href="/produtos">Produtos</a></li>
                   <!--li><a href="/precos">Preços</a></li-->
+                  <li><a href="/app">Nosso App</a></li>
                   <li><a href="/contact">Contato</a></li>
                 <li><a href="https://sistema.getrak.com/88tec/mcomando/envio/setup" target="_blank">Login</a></li>
               </ul>
