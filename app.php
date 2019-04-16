@@ -5,7 +5,7 @@
   <?php include('./components/head.php');?>
 </head>
 
-<body style="background-image: url('image/img-1.jpg');">
+<body style="background-image: url('image/img-1.webp');">
 
   <div class="site-wrap">
     <?php include('./components/header.php');?>

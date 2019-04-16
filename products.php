@@ -3,7 +3,7 @@
 <head>
   <?php include('./components/head.php');?>
 </head>
-<body style="background-image: url('image/img-1.jpg');">
+<body style="background-image: url('image/img-1.webp');">
   <div class="site-wrap">
     <?php include('./components/header.php');?>
     <div class="site-section" id="produtos">
@@ -16,9 +16,14 @@
         </div>
         <div class="row">
           <div class="col-md-12 block-13 nav-direction-white">
-            <div class="nonloop-block-13 owl-carousel">
-              <div class="media-image">
-                <img src="image/img-4.jpg" alt="Image" class="img-fluid">
+            <div class="row justify-content-center">
+              <div class="col-10 col-sm-6 col-md-4">
+                <picture>
+                  <source src="image/img-4.webp" type="image/webp">
+                  <source src="image/img-4.jpg" type="image/jpeg"/>
+                  <img src="image/img-4.jpg" alt="Image" class="img-fluid">
+                </picture>
+                
                 <div class="media-image-body">
                   <h2 class="font-secondary text-uppercase">Para você</h2>
                   <p>Monitoramento, rastreamento e bloqueio do seu veículo, em caso de roubo ou furto.
@@ -30,8 +35,12 @@
                   </p>
                 </div>
               </div>
-              <div class="media-image">
-                <img src="image/img-3.jpg" alt="Image" class="img-fluid">
+              <div class="col-10 col-sm-6 col-md-4">
+                <picture>
+                  <source src="image/img-3.webp" type="image/webp">
+                  <source src="image/img-3.jpg" type="image/jpeg"/>
+                  <img src="image/img-3.jpg" alt="Image" class="img-fluid">
+                </picture>
                 <div class="media-image-body">
                   <h2 class="font-secondary text-uppercase">Para seu negócio</h2>
                   <p>A Get Track chegou ao mercado com um sistema exclusivo de rastreamento, em tempo real, 

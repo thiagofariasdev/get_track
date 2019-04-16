@@ -5,14 +5,14 @@
   <?php include('./components/head.php');?>
 </head>
 
-<body style="background-image: url('image/img-1.jpg');">
+<body style="background-image: url('image/img-1.webp');">
 
   <div class="site-wrap">
     <?php include('./components/header.php');?>
 
     <div class="slide-one-item home-slider owl-carousel mb-3">
 
-      <div class="site-blocks-cover inner-page overlay" style="background-image: url(image/img-1.jpg);" data-aos="fade"
+      <div class="site-blocks-cover inner-page overlay" id="slide_1" data-aos="fade"
         data-stellar-background-ratio="0.5">
         <div class="container">
           <div class="row align-items-center justify-content-center">
@@ -24,7 +24,7 @@
         </div>
       </div>
 
-      <div class="site-blocks-cover inner-page overlay" style="background-image: url(image/img-2.jpg);" data-aos="fade"
+      <div class="site-blocks-cover inner-page overlay" id="slide_2" data-aos="fade"
         data-stellar-background-ratio="0.5">
         <div class="container">
           <div class="row align-items-center justify-content-center">
@@ -109,27 +109,39 @@
         </div>
         <div class="row">
           <div class="col-md-12 block-13 nav-direction-white">
-            <div class="nonloop-block-13 owl-carousel">
-              <div class="media-image">
-                <img src="image/img-4-min.jpg" alt="Image" class="img-fluid">
-                <div class="media-image-body">
-                  <h2 class="font-secondary text-uppercase">Para você</h2>
+            <div class="row justify-content-center">
+              <div class="col-10 col-sm-6 col-md-4">
+                <picture>
+                  <source src="image/img-4-min.webp" type="image/webp">
+                  <source src="image/img-4-min.jpg" type="image/jpeg">
+                  <img src="image/img-4-min.jpg" class="img-fluid">
+                </picture>
+                <div class="media-image-body pt-3">
+                  <h2 class="font-secondary text-uppercase text-center">Para você</h2>
                   <p>Monitoramento, rastreamento e bloqueio do seu veículo, em caso de roubo ou furto.
                   Você aciona o serviço de busca...</p>
                   <p>
-                    <a href="/produtos/personal" class="btn btn-primary text-white px-4">
+                    <a href="/produtos/personal" class="btn btn-primary text-white px-4" style="width:100%;">
                       <span class="caption">Saiba Mais</span>
                     </a>
                   </p>
                 </div>
               </div>
-              <div class="media-image">
-                <img src="image/img-3-min.jpg" alt="Image" class="img-fluid">
+              <div class="col-10 col-sm-6 col-md-4">
+                <picture>
+                  <source src="image/img-3-min.webp" type="image/webp">
+                  <source src="image/img-3-min.jpg" type="image/jpeg">
+                  <img src="image/img-3-min.jpg" class="img-fluid">
+                </picture>
                 <div class="media-image-body">
-                  <h2 class="font-secondary text-uppercase">Para seu negócio</h2>
+                  <h2 class="font-secondary text-uppercase text-center">Para seu negócio</h2>
                   <p>A Get Track chegou ao mercado com um sistema exclusivo de rastreamento, em tempo real, 
                     até em área de sombra...</p>
-                  <p><a href="/produtos/business" class="btn btn-primary text-white px-4"><span class="caption">Saiba Mais</span></a></p>
+                  <p>
+                    <a href="/produtos/business" style="width:100%;" class="btn btn-primary text-white px-4">
+                      <span class="caption">Saiba Mais</span>
+                    </a>
+                  </p>
                 </div>
               </div>
             </div>

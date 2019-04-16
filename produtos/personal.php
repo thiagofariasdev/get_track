@@ -10,7 +10,11 @@
       <div class="container">
         <div class="row">
           <div class="col-md-4">
-            <img src="/image/img-4.jpg" class="img-fluid" alt="">
+            <picture>
+              <source src="/image/img-4.webp" type="image/webp">
+              <source src="/image/img-4.jpg" type="image/jpeg">
+              <img src="/image/img-4.jpg" class="img-fluid" alt="Image">
+            </picture>
           </div>
           <div class="col-md-8">
             <h3 class="site-section-heading text-uppercase text-center font-secondary">Produtos pra você</h3>

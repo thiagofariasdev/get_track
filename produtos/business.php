@@ -10,7 +10,12 @@
       <div class="container">
         <div class="row">
           <div class="col-md-4">
-            <img src="/image/img-3.jpg" class="img-fluid" alt="">
+            <picture>
+              <source src="/image/img-3.webp" type="image/webp">
+              <source src="/image/img-3.jpg" type="image/jpeg">
+              <img src="/image/img-3.jpg" class="img-fluid" alt="Image">
+            </picture>
+            
           </div>
           <div class="col-md-8">
             <h3 class="site-section-heading text-uppercase text-center font-secondary">Produtos para o seu negócio</h3>
@@ -33,9 +38,7 @@
                 <li>Jornada de Trabalho dos seus motoristas</li>
               </ul>
             <p>Disponivel nos planos: 
-              <span class="badge badge-light">Safe</span>
-              <span class="badge badge-dark">Safe Plus</span>
-              <span class="badge badge-warning">Safe Ultra</span>
+              <span class="badge badge-warning">Safe</span>
             </p>
             <h4>Sua Carga</h4>
             <p>Rastreie sua carga em tempo real, inclusive em áreas de
@@ -49,9 +52,7 @@
               armazenados pela telemetria para buscar eficiência nos
               negócios.</p>
             <p>Disponivel nos planos: 
-              <span class="badge badge-light">Safe</span>
-              <span class="badge badge-dark">Safe Plus</span>
-              <span class="badge badge-warning">Safe Ultra</span>
+              <span class="badge badge-warning">Safe</span>
             </p>
             <h4>Autônomos</h4>
             <p>Motoristas autônomos dependem totalmente do carro ou caminhão
@@ -62,9 +63,7 @@
               para que você torne seu negócio mais eficiente, obtendo mais
               resultados nas suas corridas ou viagens.</p>
             <p>Disponivel nos planos: 
-              <span class="badge badge-light">Safe</span>
-              <span class="badge badge-dark">Safe Plus</span>
-              <span class="badge badge-warning">Safe Ultra</span>
+              <span class="badge badge-warning">Safe</span>
             </p>
           </div>
         </div>
