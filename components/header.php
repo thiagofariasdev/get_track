@@ -16,7 +16,7 @@
       <div class="row align-items-center">
         <div class="col-3 pt-4 pb-4">
           <a href="/" class="font-weight-bold">
-            <img src="/image/logo.png" height="100" />
+            <img src="/image/logo-a.svg" height="100" />
           </a>
         </div>
         <div class="col-9">
