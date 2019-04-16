@@ -1,7 +1,7 @@
 <title>Get Track</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="description" content="Segurança para seus bens">
+<meta name="description" content="A GetTrack é uma empresa de rastreamento de veículos, motos e cargas que combina segurança">
 <link rel="shortcut icon" href="/image/favicon.png" type="image/png">
 <link rel="canonical" href="./../index.php" />
 
@@ -48,18 +48,22 @@
   div.owl-prev{
     background-color: transparent !important;
   }
+  h2.font-secondary.font-weight-bold.text-uppercase{color:#fff;}
   @media only screen and (max-width: 900px ){
-    h1.font-secondary.font-weight-bold.text-uppercase{
+    h1.font-secondary.font-weight-bold.text-uppercase,
+    h2.font-secondary.font-weight-bold.text-uppercase{
       font-size: 4rem;
     }
   }
   @media only screen and (max-width: 700px ){
-    h1.font-secondary.font-weight-bold.text-uppercase{
+    h1.font-secondary.font-weight-bold.text-uppercase,
+    h2.font-secondary.font-weight-bold.text-uppercase{
       font-size: 3rem;
     }
   }
   @media only screen and (max-width: 500px ){
-    h1.font-secondary.font-weight-bold.text-uppercase{
+    h1.font-secondary.font-weight-bold.text-uppercase,
+    h2.font-secondary.font-weight-bold.text-uppercase{
       font-size: 2rem;
     }
   }
