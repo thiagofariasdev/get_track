@@ -3,6 +3,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="description" content="Segurança para seus bens">
 <link rel="shortcut icon" href="/image/favicon.png" type="image/png">
+<link rel="canonical" href="./../index.php" />
 
 <link rel="preload" as="style" href="/css/font.css">
 <link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Oswald:400,700|Work+Sans:300,400,700">

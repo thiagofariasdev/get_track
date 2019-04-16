@@ -29,7 +29,7 @@
         <div class="container">
           <div class="row align-items-center justify-content-center">
             <div class="col-md-7 text-center" data-aos="fade">
-              <h1 class="font-secondary font-weight-bold text-uppercase">Cobertura e agilidade</h1>
+              <h2 class="font-secondary font-weight-bold text-uppercase">Cobertura e agilidade</h2>
               <span class="caption d-block text-white">Conheça nosso sistema de rastreamento</span>
             </div>
           </div>
@@ -114,7 +114,7 @@
                 <picture>
                   <source srcset="image/img-4-min.webp" type="image/webp">
                   <source srcset="image/img-4-min.jpg" type="image/jpeg">
-                  <img src="image/img-4-min.jpg" class="img-fluid">
+                  <img src="image/img-4-min.jpg" alt="image" title="CAR" class="img-fluid">
                 </picture>
                 <div class="media-image-body pt-3">
                   <h2 class="font-secondary text-uppercase text-center">Para você</h2>
@@ -131,7 +131,7 @@
                 <picture>
                   <source srcset="image/img-3-min.webp" type="image/webp">
                   <source srcset="image/img-3-min.jpg" type="image/jpeg">
-                  <img src="image/img-3-min.jpg" class="img-fluid">
+                  <img src="image/img-3-min.jpg" alt="image" title="CARGA" class="img-fluid">
                 </picture>
                 <div class="media-image-body">
                   <h2 class="font-secondary text-uppercase text-center">Para seu negócio</h2>
