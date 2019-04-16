@@ -11,8 +11,8 @@
         <div class="row">
           <div class="col-md-4">
             <picture>
-              <source src="/image/img-4.webp" type="image/webp">
-              <source src="/image/img-4.jpg" type="image/jpeg">
+              <source srcset="/image/img-4.webp" type="image/webp">
+              <source srcset="/image/img-4.jpg" type="image/jpeg">
               <img src="/image/img-4.jpg" class="img-fluid" alt="Image">
             </picture>
           </div>

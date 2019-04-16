@@ -35,7 +35,7 @@
                 tablet, todo descolamento de seu veículo ou carga. Apresenta também
                 relatórios de eficiência, checagem de itinerários, velocidade controlada,
                 tempo de parada ou desvio de rotas previamente traçadas. Você também
-                poderá programar avisos ou alertas que avisaram caso haja qualquer
+                poderá programar avisos ou alertas que avisarão caso haja qualquer
                 alteração.</p>
             </div>
           </div>

@@ -19,8 +19,8 @@
             <div class="row justify-content-center">
               <div class="col-10 col-sm-6 col-md-4">
                 <picture>
-                  <source src="image/img-4.webp" type="image/webp">
-                  <source src="image/img-4.jpg" type="image/jpeg"/>
+                  <source srcset="image/img-4.webp" type="image/webp">
+                  <source srcset="image/img-4.jpg" type="image/jpeg"/>
                   <img src="image/img-4.jpg" alt="Image" class="img-fluid">
                 </picture>
                 
@@ -37,8 +37,8 @@
               </div>
               <div class="col-10 col-sm-6 col-md-4">
                 <picture>
-                  <source src="image/img-3.webp" type="image/webp">
-                  <source src="image/img-3.jpg" type="image/jpeg"/>
+                  <source srcset="image/img-3.webp" type="image/webp">
+                  <source srcset="image/img-3.jpg" type="image/jpeg"/>
                   <img src="image/img-3.jpg" alt="Image" class="img-fluid">
                 </picture>
                 <div class="media-image-body">

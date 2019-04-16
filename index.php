@@ -64,7 +64,7 @@
                 tablet, todo descolamento de seu veículo ou carga. Apresenta também
                 relatórios de eficiência, checagem de itinerários, velocidade controlada,
                 tempo de parada ou desvio de rotas previamente traçadas. Você também
-                poderá programar avisos ou alertas que avisaram caso haja qualquer
+                poderá programar avisos ou alertas que avisarão caso haja qualquer
                 alteração.</p>
             </div>
           </div>
@@ -112,8 +112,8 @@
             <div class="row justify-content-center">
               <div class="col-10 col-sm-6 col-md-4">
                 <picture>
-                  <source src="image/img-4-min.webp" type="image/webp">
-                  <source src="image/img-4-min.jpg" type="image/jpeg">
+                  <source srcset="image/img-4-min.webp" type="image/webp">
+                  <source srcset="image/img-4-min.jpg" type="image/jpeg">
                   <img src="image/img-4-min.jpg" class="img-fluid">
                 </picture>
                 <div class="media-image-body pt-3">
@@ -129,8 +129,8 @@
               </div>
               <div class="col-10 col-sm-6 col-md-4">
                 <picture>
-                  <source src="image/img-3-min.webp" type="image/webp">
-                  <source src="image/img-3-min.jpg" type="image/jpeg">
+                  <source srcset="image/img-3-min.webp" type="image/webp">
+                  <source srcset="image/img-3-min.jpg" type="image/jpeg">
                   <img src="image/img-3-min.jpg" class="img-fluid">
                 </picture>
                 <div class="media-image-body">
