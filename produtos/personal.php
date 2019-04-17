@@ -34,9 +34,7 @@
               Telemetria do seu carro, com alertas e avisos programados por você para manutenção,
               consumo de combustível, perímetro de movimentação do veículo.</p>
             <p>Disponivel nos planos: 
-              <span class="badge badge-light">Safe</span>
-              <span class="badge badge-dark">Safe Plus</span>
-              <span class="badge badge-warning">Safe Ultra</span>
+              <span class="badge badge-warning">Safe</span>
             </p>
             <h4>Sua Moto</h4>
             <p>Monitoramento, rastreamento e bloqueio de sua moto, em caso de roubo ou furto.
@@ -47,9 +45,7 @@
               dados da Telemetria de sua moto, com alertas e avisos programados por você para
               manutenção, consumo de combustível, perímetro de movimentação do veículo.</p>
             <p>Disponivel nos planos: 
-              <span class="badge badge-light">Safe</span>
-              <span class="badge badge-dark">Safe Plus</span>
-              <span class="badge badge-warning">Safe Ultra</span>
+              <span class="badge badge-warning">Safe</span>
             </p>
           </div>
         </div>
