@@ -15,7 +15,6 @@
               <source srcset="/image/img-3.jpg" type="image/jpeg">
               <img src="/image/img-3.jpg" class="img-fluid" alt="Image">
             </picture>
-            
           </div>
           <div class="col-md-8">
             <h3 class="site-section-heading text-uppercase text-center font-secondary">Produtos para o seu negócio</h3>
@@ -25,9 +24,6 @@
               rastreamento, em tempo real, até em área de sombra, oferecendo aos
               seus clientes uma ferramenta completa, com relatórios, para gestão
               eficiente de sua frota:</p>
-              
-          </div>
-          <div class="col-md-12">
             <ul>
                 <li>planejar de suas operações otimizando itinerários</li>
                 <li>aumentar da segurança</li>
