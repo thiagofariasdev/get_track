@@ -150,7 +150,7 @@
       </div>
     </div>
 
-    <!-- div class="site-section" id="precos">
+    <div class="site-section" id="precos">
       <div class="container">
         <div class="row">
           <div class="col-md-12 text-center">
@@ -159,7 +159,7 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-md-4">
+          <div class="col-md-4 m-auto">
             <div class="card">
               <div class="card-head p-2">
                 <h3 class="text-center">Safe</h3>
@@ -197,7 +197,7 @@
                     </tr>
                     <tr>
                       <td colspan='2'>
-                        <button class="btn btn-success block">R$000,00</button>
+                        <button class="btn btn-success block">R$69,90</button>
                       </td>
                     </tr>
                   </tbody>
@@ -205,7 +205,7 @@
               </div>
             </div>
           </div>
-          <div class="col-md-4">
+          <!--div class="col-md-4">
             <div class="card">
               <div class="card-head p-2">
                 <h3 class="text-center">Safe Plus</h3>
@@ -296,10 +296,10 @@
                 </table>
               </div>
             </div>
-          </div>
+          </div-->
         </div>
       </div>
-    </div -->
+    </div>
 
     <!--div class="site-section" id="app">
       <div class="container">
@@ -334,11 +334,11 @@
 
     <div class="py-5 bg-primary">
       <div class="container">
-        <div class="row align-items-center">
+        <div class="row align-items-center" style="justify-content: space-between;">
           <div class="col-md-6 text-center text-md-left mb-3 mb-md-0">
             <h2 class="text-uppercase text-white mb-0">Segurança para sua empresa</h2>
           </div>
-          <div class="col-md-3 ml-auto text-center text-md-left">
+          <div class="col-md-3 text-center text-md-left">
             <a href="/contact" class="btn btn-bg-primary d-inline-block d-md-block font-secondary text-uppercase">Contato</a>
           </div>
         </div>

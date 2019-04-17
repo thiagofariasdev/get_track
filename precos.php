@@ -19,7 +19,7 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-md-4">
+          <div class="col-md-4 m-auto">
             <div class="card">
               <div class="card-head p-2">
                 <h3 class="text-center">Safe</h3>
@@ -57,7 +57,7 @@
                     </tr>
                     <tr>
                       <td colspan='2'>
-                        <button class="btn btn-success block">R$000,00</button>
+                        <button class="btn btn-success block">R$69,90</button>
                       </td>
                     </tr>
                   </tbody>
@@ -65,7 +65,7 @@
               </div>
             </div>
           </div>
-          <div class="col-md-4">
+          <!--div class="col-md-4">
             <div class="card">
               <div class="card-head p-2">
                 <h3 class="text-center">Safe Plus</h3>
@@ -156,7 +156,7 @@
                 </table>
               </div>
             </div>
-          </div>
+          </div-->
         </div>
       </div>
     </div>

@@ -10,4 +10,21 @@
 <script src="/js/bootstrap-datepicker.min.js"></script>
 <script src="/js/aos.js"></script>
 <script src="/js/main.js"></script>
-<!-- <script src="/js/webpjs-0.0.2.min.js"></script> -->
+<script>
+  var isIE = /*@cc_on!@*/false || !!document.documentMode;
+  var isFirefox = typeof InstallTrigger !== 'undefined';
+  var isEdge = !isIE && !!window.StyleMedia;
+  var isChrome = ((navigator.userAgent.toLowerCase().indexOf('chrome') > -1) &&(navigator.vendor.toLowerCase().indexOf("google") > -1));
+  var isSafari = /constructor/i.test(window.HTMLElement) || (function (p) { return p.toString() === "[object SafariRemoteNotification]"; })(!window['safari'] || safari.pushNotification);
+  var outp = {
+    fire:isFirefox,
+    edge: isEdge,
+    chrome: isChrome,
+    saf: isSafari
+  }
+  console.log(outp);
+  if(isFirefox || isEdge || isChrome) {
+  }else{
+    $('body').addClass('no-webp');
+  }
+</script>
