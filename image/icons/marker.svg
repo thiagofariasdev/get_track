@@ -5,11 +5,35 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="SVGRoot"
    version="1.1"
    viewBox="0 0 64 64"
    height="64px"
-   width="64px">
+   width="64px"
+   sodipodi:docname="marker.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="713"
+     id="namedview5400"
+     showgrid="false"
+     inkscape:zoom="3.6875"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="SVGRoot" />
   <defs
      id="defs5305" />
   <metadata
@@ -20,23 +44,26 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1">
+     id="layer1"
+     transform="matrix(2.1568565,0,0,2.1568565,-37.019409,-37.019408)">
     <g
        transform="translate(10.625,-22.25)"
        id="g5750">
       <path
          class="st6"
          d="m 21.378734,68.315 -7.88,-11.38 c -2.95,-3.93 -2.52,-10.42 0.93,-13.87 1.86,-1.86 4.33,-2.88 6.95,-2.88 2.62,0 5.09,1.02 6.95,2.88 3.45,3.45 3.87,9.93 0.91,13.89 z m 0,-26.99 c -2.32,0 -4.51,0.91 -6.15,2.55 -3.08,3.08 -3.46,8.88 -0.81,12.41 l 6.96,10.05 6.95,-10.03 c 2.65,-3.54 2.28,-9.35 -0.79,-12.43 -1.65,-1.64 -3.83,-2.55 -6.16,-2.55"
-         id="path4842" />
+         id="path4842"
+         inkscape:connector-curvature="0" />
       <path
          class="st6"
          d="m 21.378734,59.885 -4.12,-5.95 c -1.53,-2.04 -1.31,-5.41 0.49,-7.21 0.97,-0.97 2.26,-1.5 3.63,-1.5 1.37,0 2.66,0.53 3.63,1.5 1.79,1.79 2.02,5.16 0.48,7.22 z m 0,-13.6 c -1.09,0 -2.11,0.42 -2.88,1.2 -1.42,1.42 -1.6,4.21 -0.38,5.84 l 3.26,4.71 3.26,-4.7 c 1.25,-1.67 1.08,-4.4 -0.37,-5.85 -0.77,-0.78 -1.8,-1.2 -2.89,-1.2"
-         id="path4844" />
+         id="path4844"
+         inkscape:connector-curvature="0" />
     </g>
   </g>
 </svg>

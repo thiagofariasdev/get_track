@@ -10,32 +10,36 @@
   <div class="site-wrap">
     <?php include('./components/header.php');?>
 
-    <div class="slide-one-item home-slider owl-carousel mb-3">
-
-      <div class="site-blocks-cover inner-page overlay" id="slide_1" data-aos="fade"
-        data-stellar-background-ratio="0.5">
-        <div class="container">
-          <div class="row align-items-center justify-content-center">
-            <div class="col-md-7 text-center" data-aos="fade">
-              <h1 class="font-secondary font-weight-bold text-uppercase">Segurança e proteção em foco</h1>
-              <span class="caption d-block text-white">Uma empresa de segurança</span>
-            </div>
+    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+      <ol class="carousel-indicators">
+        <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+      </ol>
+      <div class="carousel-inner">
+        <div class="carousel-item site-blocks-cover inner-page overlay active" data-aos="fade"
+          data-stellar-background-ratio="0.5" style="min-height:90vh" id="slide_1">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>...</h5>
+            <p>...</p>
+          </div>
+        </div>
+        <div class="carousel-item site-blocks-cover inner-page overlay"data-aos="fade"
+          data-stellar-background-ratio="0.5" style="min-height: 90vh;" id="slide_2">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>...</h5>
+            <p>...</p>
           </div>
         </div>
       </div>
-
-      <div class="site-blocks-cover inner-page overlay" id="slide_2" data-aos="fade"
-        data-stellar-background-ratio="0.5">
-        <div class="container">
-          <div class="row align-items-center justify-content-center">
-            <div class="col-md-7 text-center" data-aos="fade">
-              <h2 class="font-secondary font-weight-bold text-uppercase">Cobertura e agilidade</h2>
-              <span class="caption d-block text-white">Conheça nosso sistema de rastreamento</span>
-            </div>
-          </div>
-        </div>
-      </div>
-
+      <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control-next" style="color: orange;" href="#carouselExampleIndicators" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
     </div>
     
     <div id="sobre" class="site-half">
@@ -63,9 +67,8 @@
               <p>Um aplicativo fácil de usar apresenta na palma de sua mão, pelo celular ou
                 tablet, todo descolamento de seu veículo ou carga. Apresenta também
                 relatórios de eficiência, checagem de itinerários, velocidade controlada,
-                tempo de parada ou desvio de rotas previamente traçadas. Você também
-                poderá programar avisos ou alertas que avisarão caso haja qualquer
-                alteração.</p>
+                tempo de parada ou desvio de rotas previamente traçadas. 
+                Você também poderá programar avisos ou alertas para qualquer alteração de rota..</p>
             </div>
           </div>
       </div>
@@ -76,21 +79,21 @@
         <div class="row border-responsive">
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-0 border-right">
             <div class="text-center">
-              <img src="./image/secure.svg" alt="SECURE" style="height:64px;margin-bottom:15px;">
+              <i class="gt-safe" style="font-size: 120px; color: dodgerblue"></i>
               <h3 class="text-uppercase h4 mb-3">Segurança</h3>
               <p> Monitoramento, Rastreamento e Bloqueio 24h </p>
             </div>
           </div>
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-0 border-right">
             <div class="text-center">
-              <img src="./image/cover.svg" alt="COVER" style="height:64px;margin-bottom:15px;">
+              <i class="gt-eletric_mauer" style="font-size: 120px; color: green"></i>
               <h3 class="text-uppercase h4 mb-3">Cobertura</h3>
               <p>Abrangência em toda América Latina, integrado a aplicativo de acompanhamento</p>
             </div>
           </div>
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
             <div class="text-center">
-              <img src="./image/dash.svg" alt="DASHICON" style="height:64px;margin-bottom:15px;">
+              <i class="gt-in_your_hand" style="font-size: 120px; color: orange"></i>
               <h3 class="text-uppercase h4 mb-3">Agilidade</h3>
               <p> Tenha tudo na palma da mão pelo app de instalação fácil e rápida</p>
             </div>
@@ -118,7 +121,7 @@
                 </picture>
                 <div class="media-image-body pt-3">
                   <h2 class="font-secondary text-uppercase text-center">Para você</h2>
-                  <p>Monitoramento, rastreamento e bloqueio do seu veículo, em caso de roubo ou furto.
+                  <p class="text-justify">Monitoramento, rastreamento e bloqueio do seu veículo, em caso de roubo ou furto.
                   Você aciona o serviço de busca...</p>
                   <p>
                     <a href="/produtos/personal" class="btn btn-primary text-white px-4" style="width:100%;">
@@ -135,7 +138,7 @@
                 </picture>
                 <div class="media-image-body">
                   <h2 class="font-secondary text-uppercase text-center">Para seu negócio</h2>
-                  <p>A Get Track chegou ao mercado com um sistema exclusivo de rastreamento, em tempo real, 
+                  <p class="text-justify">A Get Track chegou ao mercado com um sistema exclusivo de rastreamento, em tempo real, 
                     até em área de sombra...</p>
                   <p>
                     <a href="/produtos/business" style="width:100%;" class="btn btn-primary text-white px-4">
@@ -154,8 +157,8 @@
       <div class="container">
         <div class="row">
           <div class="col-md-12 text-center">
-            <span class="caption d-block mb-2 font-secondary font-weight-bold">Segurança e rastreamento</span>
-            <h2 class="site-section-heading text-uppercase text-center font-secondary">Pacotes de serviços</h2>
+            <span class="caption d-block mb-2 font-secondary font-weight-bold">Assinatura Mensal para Serviços Get Track<br>Para Você ou seu Negócio.</span>
+            <!--h2 class="site-section-heading text-uppercase text-center font-secondary"></h2-->
           </div>
         </div>
         <div class="row">
@@ -166,33 +169,43 @@
                 <table class="table">
                   <tbody>
                     <tr>
-                      <td><b>Carros</b></td>
+                      <td>
+                        <i data-toggle="tooltip" title="Seu Carro" class="gt-car" style="color: dodgerblue;"></i>
+                      </td>
                       <td>
                         <i class="icon-check"></i>
                       </td>
                     </tr>
                     <tr>
-                      <td><b>Motos</b></td>
+                      <td>
+                      <i data-toggle="tooltip" title="Sua Moto" class="gt-bike" style="color: dodgerblue;"></i>
+                      </td>
                       <td>
                         <i class="icon-check"></i>
                       </td>
                     </tr>
                     <tr>
-                      <td><b>Frota</b></td>
                       <td>
-                        <i class="icon-remove"></i>
+                      <i data-toggle="tooltip" title="Sua Frota" class="gt-fleet" style="color: dodgerblue;"></i>
+                      </td>
+                      <td>
+                        <i class="icon-check"></i>
                       </td>
                     </tr>
                     <tr>
-                      <td><b>Carga</b></td>
                       <td>
-                        <i class="icon-remove"></i>
+                      <i data-toggle="tooltip" title="Sua Carga" class="gt-charge" style="color: dodgerblue;"></i>
+                      </td>
+                      <td>
+                        <i class="icon-check"></i>
                       </td>
                     </tr>
                     <tr>
-                      <td><b>Autônomo</b></td>
                       <td>
-                        <i class="icon-remove"></i>
+                        <i data-toggle="tooltip" title="Autônomos" class="gt-car" style="color: dodgerblue;"></i>
+                      </td>
+                      <td>
+                        <i class="icon-check"></i>
                       </td>
                     </tr>
                     <tr>

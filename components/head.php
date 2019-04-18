@@ -29,6 +29,9 @@
 <link rel="stylesheet" href="/css/owl.theme.default.min.css">
 <link rel="stylesheet" href="/css/aos.css">
 <link rel="stylesheet" href="/css/style.css">
+
+<link rel="stylesheet" href="/fonts/gticon/css/gt.css"/>
+
 <style>
   .block{
     width: 100%;
@@ -44,6 +47,12 @@
   }
   div.owl-next{
     background-color: transparent !important;
+  }
+  div.carousel-caption{
+    background-color: #00000099;
+    bottom: 0;
+    left: 0;
+    right: 0;
   }
   div.owl-prev{
     background-color: transparent !important;
