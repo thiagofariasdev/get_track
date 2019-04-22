@@ -76,6 +76,9 @@
       font-size: 2rem;
     }
   }
+  .bl{
+    color: #00aeef
+  }
 </style>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-138355369-1"></script>

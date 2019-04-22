@@ -18,10 +18,7 @@
   font-family: 'Default Font' !important;
   font-weight: normal;
 }
-h2{
+h1, h2, h3, h4, h5{
   font-family: 'Font Bold' !important;
   font-weight: bold;
-}
-h3{
-  font-family: 'Font Bold' !important;
 }

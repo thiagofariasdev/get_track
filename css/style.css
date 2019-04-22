@@ -3,11 +3,11 @@ body{line-height:1.7;color:rgba(0,0,0,.5);font-weight:400;font-size:1rem;font-fa
 #slide_2{background-image: url(../image/img-2.webp);}
 #site-half-1{background-image:url(./../image/technology.jpg)}
 #site-half-2{background-image:url(./../image/find_anywhere.jpg)}
-.no-webp #site-half-1, .no-js #site-half-1{background-image:url(../image/img-2.jpg) !important;}
+/* .no-webp #site-half-1, .no-js #site-half-1{background-image:url(../image/img-2.jpg) !important;}
 .no-webp #site-half-2, .no-js #site-half-2{background-image:url(../image/bg-min.jpg) !important;}
 .no-webp #slide_1{background-image: url(../image/img-1.jpg) !important;}
 .no-webp #slide_2{background-image: url(../image/img-2.jpg) !important;}
-.no-webp .fg-blue{background-image:url(../image/bg.jpg) !important;}
+.no-webp .fg-blue{background-image:url(../image/bg.jpg) !important;} */
 @media only screen and (max-width:768px){
   .no-webp #site-half-1, .no-webp #site-half-2, #site-half-1, #site-half-2{background-color:#fff;background-image:none!important}
 }

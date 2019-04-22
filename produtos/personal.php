@@ -8,67 +8,58 @@
   <div class="site-wrap">
     <div class="site-section">
       <div class="container">
+        <h3 class="site-section-heading text-uppercase text-center">Para Você</h3>
         <div class="row">
-        <h3 class="site-section-heading text-uppercase text-center font-secondary">Produtos pra você</h3>
-            <p >A GetTrack possui produtos pensados para você e seu negócio.
-              Tudo isso buscando segurança, e proteção para você e sua família, 
-              controle e eficiência na gestão de negócios, 
-              seja uma frota ou autônomo.</p>
-          <div class="col-md-4">
-            <picture>
-              <source srcset="/image/img-4.webp" type="image/webp">
-              <source srcset="/image/img-4.jpg" type="image/jpeg">
-              <img src="/image/img-4.jpg" class="img-fluid" alt="Image">
-            </picture>
+          <div class="col-12 col-sm-12 col-md-4">
+            <img src="/image/car2.jpg" class="img-fluid" alt="CARRO">
           </div>
-          <div class="col-md-8">
-            <h4>Seu Carro</h4>
-            <p>Monitoramento, rastreamento e bloqueio do seu veículo, em caso de roubo ou furto.
-              Você aciona o serviço de busca, disponível em toda América Latina, 24 horas 7 dias na
-              semana que todas as providências serão tomadas, junto as autoridades, para resgate do
-              seu carro.</p>
-              <p>Tudo isso na palma da mão, pelo aplicativo Get Track. Você ainda vai utilizar dos dados da
-              Telemetria do seu carro, com alertas e avisos programados por você para manutenção,
-              consumo de combustível, perímetro de movimentação do veículo.</p>
-            <p>Disponivel nos planos: 
-              <span class="badge badge-warning">Safe</span>
-            </p>
-            <div class="mb-5 text-center">
-              <img data-toggle="tooltip" title="Seguir meu carro" src="/image/icons/follow_car.svg" alt="BUSCARCARRO"/>
-              <img data-toggle="tooltip" title="Combustível e manutenção" src="/image/icons/fuel_man.svg" alt="COMBUSTIVELEMANUTENCAO"/>
-              <img data-toggle="tooltip" title="Cerca eletronica" src="/image/icons/eletric_mauer.svg" alt="CERCAELETRONICA"/>
-              <img data-toggle="tooltip" title="Velocidade Controlada" src="/image/icons/control_vel.svg" alt="VELOCIDADECONTROLADA"/>
-              <img data-toggle="tooltip" title="Movimentos não permitidos" src="/image/icons/denied_path.svg" alt="MOVIMENTONAOPERMITIDO"/>
-              <img data-toggle="tooltip" title="Condutores autorizados" src="/image/icons/allowed_cond.svg" alt="CONDUTORESAUTORIZADOS"/>
-            </div>
+          <div class="col-12 col-sm-12 col-md-4">
+            <h5 class="text-uppercase">Seu Carro</h5>
+            <p>Monitoramento, rastreamento e bloqueio do
+              seu veículo, em caso de roubo ou furto.</p>
+            <p>Você aciona o serviço de busca, disponível em
+              toda América Latina, 24 horas 7 dias na semana
+              que todas as providências serão tomadas, junto
+              as autoridades, para resgate do seu carro.</p>
+            <p>Tudo isso na palma da mão, pelo aplicativo Get
+              Track. Você ainda vai utilizar dos dados da
+              Telemetria do seu carro, com alertas e avisos
+              programados por você para manutenção,
+              consumo de combustível, perímetro de
+              movimentação do veículo.</p>
           </div>
-          <div class="col-md-12">
-            <div class="row">
-              <div class="col-md-8">
-                <h4>Sua Moto</h4>
-                <p>Monitoramento, rastreamento e bloqueio de sua moto, em caso de roubo ou furto.
-                  Você aciona o serviço de busca, disponível em toda América Latina, 24 horas 7 dias
-                  na semana que todas as providencias providências serão tomadas, junto as
-                  autoridades, para resgate as sua motocicleta com segurança.</p><p>
-                  Tudo isso na palma da mão, pelo aplicativo Get Track. Você ainda vai utilizar dos
-                  dados da Telemetria de sua moto, com alertas e avisos programados por você para
-                  manutenção, consumo de combustível, perímetro de movimentação do veículo.</p>
-                <p>Disponivel nos planos: 
-                  <span class="badge badge-warning">Safe</span>
-                </p>
-                <div class="mb-5 text-center">
-                  <img data-toggle="tooltip" title="Seguir minha moto" src="/image/icons/follow_bike.svg" alt="BUSCARMOTO"/>
-                  <img data-toggle="tooltip" title="Combustível e manutenção" src="/image/icons/fuel_man.svg" alt="COMBUSTIVELEMANUTENCAO"/>
-                  <img data-toggle="tooltip" title="Cerca eletronica" src="/image/icons/eletric_mauer.svg" alt="CERCAELETRONICA"/>
-                  <img data-toggle="tooltip" title="Velocidade Controlada" src="/image/icons/control_vel.svg" alt="VELOCIDADECONTROLADA"/>
-                  <img data-toggle="tooltip" title="Movimentos não permitidos" src="/image/icons/denied_path.svg" alt="MOVIMENTONAOPERMITIDO"/>
-                  <img data-toggle="tooltip" title="Condutores autorizados" src="/image/icons/allowed_cond.svg" alt="CONDUTORESAUTORIZADOS"/>
-                </div>
-              </div>
-              <div class="col-md-4">
-                <img src="/image/img-5.jpg" class="img-fluid" alt="MOTO">
-              </div>
-            </div>
+          <div class="col-12 col-sm-12 col-md-4">
+            <h5>
+              Funções: <i class="gt-car"  data-toggle="tooltip" title="Carro"></i>
+            </h5>
+            <table>
+              <tbody>
+                <tr>
+                  <td><i title="Seguir meu carro" data-toggle="tooltip" class="gt-follow_car bl"></i></td>
+                  <td class="bl">Seguir meu carro</td>
+                </tr>
+                <tr>
+                  <td><i title="Seguir meu carro" data-toggle="tooltip" class="gt-eletric_mauer bl"></i></td>
+                  <td class="bl">Cerca eletronica</td>
+                </tr>
+                <tr>
+                  <td><i title="Seguir meu carro" data-toggle="tooltip" class="gt-denied_path bl"></i></td>
+                  <td class="bl">Movimento não permitido</td>
+                </tr>
+                <tr title="Combustível e manutenção" data-toggle="tooltip">
+                  <td><i class="gt-fuel_man bl"></i></td>
+                  <td class="bl">Combustível e manutenção</td>
+                </tr>
+                <tr title="Velocidade controlada" data-toggle="tooltip">
+                  <td><i  class="gt-control_vel bl"></i></td>
+                  <td class="bl">Velocidade controlada</td>
+                </tr>
+                <tr title="Condutores autorizados" data-toggle="tooltip">
+                  <td><i class="gt-allowed_cond bl"></i></td>
+                  <td class="bl">Condutores autorizados</td>
+                </tr>
+              </tbody>
+            </table>
           </div>
         </div>
       </div>
