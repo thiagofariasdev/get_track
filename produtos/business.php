@@ -98,6 +98,69 @@
             </table>
           </div>
         </div>
+        <div class="row mt-5">
+          <div class="col-12 col-sm-12 col-md-4">
+            <div id="carousel" class="carousel slide" data-ride="carousel">
+              <div class="carousel-inner">
+                <div class="carousel-item active">
+                  <div class="car-bg">
+                    <img src="/image/charge-min.jpg" class="img-fluid" alt="">
+                  </div>
+                </div>
+                <div class="carousel-item">
+                  <div class="carbg">
+                    <img src="/image/charge2-min.jpg" class="img-fluid" alt="">
+                  </div>
+                </div>
+              </div>
+              <a class="carousel-control-prev" href="#carousel" role="button" data-slide="prev">
+                <span class="icon-angle-left" style="color:orange; font-size: 30px;" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carousel" role="button" data-slide="next">
+                <span class="icon-angle-right" style="color:orange; font-size: 30px;" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+              </a>
+            </div>
+          </div>
+          <div class="col-12 col-sm-12 col-md-5">
+            <h4 class="text-uppercase">Sua carga</h4>
+            
+          </div>
+          <div class="col-12 col-sm-12 col-md-3">
+            <h5>
+              Funções: <i class="gt-charge" data-toggle="tooltip" title="Carga"></i>
+            </h5>
+            <table>
+              <tbody>
+                <tr>
+                  <td><i title="Seguir meu carro" data-toggle="tooltip" class="gt-follow_charge or"></i></td>
+                  <td class="or">Seguir minha carga</td>
+                </tr>
+                <tr>
+                  <td><i title="Seguir meu carro" data-toggle="tooltip" class="gt-eletric_mauer or"></i></td>
+                  <td class="or">Cerca eletronica</td>
+                </tr>
+                <tr>
+                  <td><i title="Seguir meu carro" data-toggle="tooltip" class="gt-denied_path or"></i></td>
+                  <td class="or">Movimento não permitido</td>
+                </tr>
+                <tr title="Combustível e manutenção" data-toggle="tooltip">
+                  <td><i class="gt-fuel_man or"></i></td>
+                  <td class="or">Combustível e manutenção</td>
+                </tr>
+                <tr title="Velocidade controlada" data-toggle="tooltip">
+                  <td><i  class="gt-control_vel or"></i></td>
+                  <td class="or">Velocidade controlada</td>
+                </tr>
+                <tr title="Condutores autorizados" data-toggle="tooltip">
+                  <td><i class="gt-allowed_cond or"></i></td>
+                  <td class="or">Condutores autorizados</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
       </div>
     </div>
   </div>
