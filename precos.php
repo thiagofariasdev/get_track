@@ -14,8 +14,8 @@
       <div class="container">
         <div class="row">
           <div class="col-md-12 text-center">
-            <span class="caption d-block mb-2 font-secondary font-weight-bold">Segurança e rastreamento</span>
-            <h2 class="site-section-heading text-uppercase text-center font-secondary">Pacotes de serviços</h2>
+            <span class="caption d-block mb-2 font-secondary font-weight-bold">Assinatura Mensal para Serviços Get Track<br>Para Você ou seu Negócio.</span>
+            <!--h2 class="site-section-heading text-uppercase text-center font-secondary">Pacotes de serviços</h2-->
           </div>
         </div>
         <div class="row">
@@ -26,33 +26,43 @@
                 <table class="table">
                   <tbody>
                     <tr>
-                      <td><b>Carros</b></td>
+                      <td>
+                        <i data-toggle="tooltip" title="Seu Carro" class="gt-car" style="color: dodgerblue;"></i>
+                      </td>
                       <td>
                         <i class="icon-check"></i>
                       </td>
                     </tr>
                     <tr>
-                      <td><b>Motos</b></td>
+                      <td>
+                      <i data-toggle="tooltip" title="Sua Moto" class="gt-bike" style="color: dodgerblue;"></i>
+                      </td>
                       <td>
                         <i class="icon-check"></i>
                       </td>
                     </tr>
                     <tr>
-                      <td><b>Frota</b></td>
                       <td>
-                        <i class="icon-remove"></i>
+                      <i data-toggle="tooltip" title="Sua Frota" class="gt-fleet" style="color: dodgerblue;"></i>
+                      </td>
+                      <td>
+                        <i class="icon-check"></i>
                       </td>
                     </tr>
                     <tr>
-                      <td><b>Carga</b></td>
                       <td>
-                        <i class="icon-remove"></i>
+                      <i data-toggle="tooltip" title="Sua Carga" class="gt-charge" style="color: dodgerblue;"></i>
+                      </td>
+                      <td>
+                        <i class="icon-check"></i>
                       </td>
                     </tr>
                     <tr>
-                      <td><b>Autônomo</b></td>
                       <td>
-                        <i class="icon-remove"></i>
+                        <i data-toggle="tooltip" title="Autônomos" class="gt-car" style="color: dodgerblue;"></i>
+                      </td>
+                      <td>
+                        <i class="icon-check"></i>
                       </td>
                     </tr>
                     <tr>

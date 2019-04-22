@@ -1,7 +1,27 @@
 @font-face{
   font-family: 'Default Font';
-  src: url(./../fonts/conthrax-sb.ttf);
+  src: url(./../fonts/Gotham-Light.otf);
 }
-h2.text-uppercase.text-white.mb-0{
-  font-family: 'Default Font'
+@font-face{
+  font-family: 'Font Bolder';
+  src: url(./../fonts/Gotham-Bold_0.otf);
+  font-weight: bolder;
+  font-style: normal;
+}
+@font-face{
+  font-family: 'Font Bold';
+  src: url(./../fonts/Gotham-Medium.otf);
+  font-weight: bold;
+  font-style: normal;
+}
+*{
+  font-family: 'Default Font' !important;
+  font-weight: normal;
+}
+h2{
+  font-family: 'Font Bold' !important;
+  font-weight: bold;
+}
+h3{
+  font-family: 'Font Bold' !important;
 }

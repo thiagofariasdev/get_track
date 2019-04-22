@@ -14,30 +14,29 @@
       <ol class="carousel-indicators">
         <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
       </ol>
       <div class="carousel-inner">
-        <div class="carousel-item site-blocks-cover inner-page overlay active" data-aos="fade"
-          data-stellar-background-ratio="0.5" style="min-height:90vh" id="slide_1">
+        <div class="carousel-item active" style="height: 90vh" id="slide_1">
+          <img src="/image/header1.jpg" class="img-fluid" alt="">
           <div class="carousel-caption d-none d-md-block">
-            <h5>...</h5>
+            <h5 style="color: #fff;">...</h5>
             <p>...</p>
           </div>
         </div>
-        <div class="carousel-item site-blocks-cover inner-page overlay"data-aos="fade"
-          data-stellar-background-ratio="0.5" style="min-height: 90vh;" id="slide_2">
+        <div class="carousel-item" style="height: 90vh" id="slide_1">
+          <img src="/image/hands_on.jpg" class="img-fluid" alt="">
           <div class="carousel-caption d-none d-md-block">
-            <h5>...</h5>
+            <h5 style="color: #fff;">...</h5>
             <p>...</p>
           </div>
         </div>
       </div>
       <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="icon-angle-left" style="color:orange; font-size: 60px;" aria-hidden="true"></span>
         <span class="sr-only">Previous</span>
       </a>
-      <a class="carousel-control-next" style="color: orange;" href="#carouselExampleIndicators" role="button" data-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+        <span class="icon-angle-right" style="color:orange; font-size: 60px;" aria-hidden="true"></span>
         <span class="sr-only">Next</span>
       </a>
     </div>
@@ -349,7 +348,7 @@
       <div class="container">
         <div class="row align-items-center" style="justify-content: space-between;">
           <div class="col-md-6 text-center text-md-left mb-3 mb-md-0">
-            <h2 class="text-uppercase text-white mb-0">Segurança para sua empresa</h2>
+            <h2 class="text-uppercase text-white mb-0">Tecnologia para sua empresa</h2>
           </div>
           <div class="col-md-3 text-center text-md-left">
             <a href="/contact" class="btn btn-bg-primary d-inline-block d-md-block font-secondary text-uppercase">Contato</a>
