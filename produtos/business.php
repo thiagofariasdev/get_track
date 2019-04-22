@@ -25,8 +25,8 @@
               seus clientes uma ferramenta completa, com relatórios, para gestão
               eficiente de sua frota:</p>
             <ul>
-                <li>planejar de suas operações otimizando itinerários</li>
-                <li>aumentar da segurança</li>
+                <li>planejar suas operações otimizando itinerários</li>
+                <li>aumentar sua segurança</li>
                 <li>redução de custos com manutenção e combustível</li>
                 <li>otimização de rotas</li>
                 <li>conservação do patrimônio</li>
