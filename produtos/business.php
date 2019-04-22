@@ -70,29 +70,29 @@
             </h5>
             <table>
               <tbody>
-                <tr title="Seguir sua Frota" data-toggle="tooltip">
-                  <td><i class="gt-follow_fleet or"></i></td>
-                  <td class="or">Seguir sua Frota</td>
+                <tr>
+                  <td><i title="Seguir meu carro" data-toggle="tooltip" class="gt-follow_fleet gr"></i></td>
+                  <td class="gr">Seguir meu carro</td>
                 </tr>
-                <tr title="Cerca eletronica" data-toggle="tooltip">
-                  <td><i class="gt-eletric_mauer or"></i></td>
-                  <td class="or">Cerca eletronica</td>
+                <tr>
+                  <td><i title="Seguir meu carro" data-toggle="tooltip" class="gt-eletric_mauer gr"></i></td>
+                  <td class="gr">Cerca eletronica</td>
                 </tr>
-                <tr title="Movimento não permitido" data-toggle="tooltip">
-                  <td><i class="gt-denied_path or"></i></td>
-                  <td class="or">Movimento não permitido</td>
+                <tr>
+                  <td><i title="Seguir meu carro" data-toggle="tooltip" class="gt-denied_path gr"></i></td>
+                  <td class="gr">Movimento não permitido</td>
                 </tr>
                 <tr title="Combustível e manutenção" data-toggle="tooltip">
-                  <td><i class="gt-fuel_man or"></i></td>
-                  <td class="or">Combustível e manutenção</td>
+                  <td><i class="gt-fuel_man gr"></i></td>
+                  <td class="gr">Combustível e manutenção</td>
                 </tr>
                 <tr title="Velocidade controlada" data-toggle="tooltip">
-                  <td><i  class="gt-control_vel or"></i></td>
-                  <td class="or">Velocidade controlada</td>
+                  <td><i  class="gt-control_vel gr"></i></td>
+                  <td class="gr">Velocidade controlada</td>
                 </tr>
                 <tr title="Condutores autorizados" data-toggle="tooltip">
-                  <td><i class="gt-allowed_cond or"></i></td>
-                  <td class="or">Condutores autorizados</td>
+                  <td><i class="gt-allowed_cond gr"></i></td>
+                  <td class="gr">Condutores autorizados</td>
                 </tr>
               </tbody>
             </table>
