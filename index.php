@@ -21,8 +21,8 @@
             <img src="/image/header1.jpg" class="img-fluid" alt="">
           </div>
           <div class="carousel-caption d-none d-md-block">
-            <h3 style="color: #fff;">...</h5>
-            <p>...</p>
+            <h3 class="text-uppercase" style="color: #fff;">Segurança e proteção em foco</h5>
+            <p>Tecnologia de última geração no monitoramento, rastreamento e bloqueio 24h</p>
           </div>
         </div>
         <div class="carousel-item">
@@ -82,23 +82,48 @@
         <div class="row border-responsive">
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-0 border-right">
             <div class="text-center">
-              <i class="gt-safe" style="font-size: 120px; color: dodgerblue"></i>
-              <h3 class="text-uppercase h4 mb-3">Segurança</h3>
-              <p> Monitoramento, Rastreamento e Bloqueio 24h </p>
+              <i class="gt-eletric_mauer bl" style="font-size: 120px;"></i>
+              <h3 class="text-uppercase h4 mb-3">Onde está seu veículo</h3>
+              <p> Acompanhe em tempo real
+                qualquer movimentação do
+                seu veiculo, moto ou frota
+                pelo celular ou tablet. </p>
             </div>
           </div>
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-0 border-right">
             <div class="text-center">
-              <i class="gt-eletric_mauer" style="font-size: 120px; color: green"></i>
-              <h3 class="text-uppercase h4 mb-3">Cobertura</h3>
-              <p>Abrangência em toda América Latina, integrado a aplicativo de acompanhamento</p>
+              <i class="gt-store_data bl" style="font-size: 120px;"></i>
+              <h3 class="text-uppercase h4 mb-3">Dados Armazenados</h3>
+              <p>Veja o consumo de
+                combustível e a velocidade
+                média, manutenção de peças
+                entre outros dados para
+                ajudar na gestão eficiente do
+                seu veiculo ou frota.</p>
             </div>
           </div>
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
             <div class="text-center">
-              <i class="gt-in_your_hand" style="font-size: 120px; color: orange"></i>
-              <h3 class="text-uppercase h4 mb-3">Agilidade</h3>
-              <p> Tenha tudo na palma da mão pelo app de instalação fácil e rápida</p>
+              <i class="gt-safe bl" style="font-size: 120px;"></i>
+              <h3 class="text-uppercase h4 mb-3">Segurança e proteção</h3>
+              <p> Programe Alertas e Avisos:
+                Movimentação no
+                estacionamento, desvio de
+                rota, paradas não
+                programadas, entre outros.
+                Acione a central com apenas
+                alguns cliques em caso de
+                roubo ou furto.</p>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
+            <div class="text-center">
+              <i class="gt-support bl" style="font-size: 120px;"></i>
+              <h3 class="text-uppercase h4 mb-3">Suporte ao aplicativo</h3>
+              <p>Uma equipe dedicada a
+                atender e esclarecer dúvidas
+                sobre aplicativo ou
+                funcionalidades.</p>
             </div>
           </div>
         </div>
