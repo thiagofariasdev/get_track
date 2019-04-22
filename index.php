@@ -210,7 +210,7 @@
                     </tr>
                     <tr>
                       <td colspan='3'>
-                        <button class="btn btn-success block">R$69,90</button>
+                        <a href="contact" class="btn btn-success block">R$69,90</a>
                       </td>
                     </tr>
                   </tbody>

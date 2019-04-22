@@ -10,8 +10,8 @@
       <div class="container">
         <div class="row">
         <h3 class="site-section-heading text-uppercase text-center font-secondary">Produtos pra você</h3>
-            <p >A GetTrack possui produtos pensados para você  e para seu negócio.
-              Tudo isso buscando segurança,  e proteção para você e sua família, 
+            <p >A GetTrack possui produtos pensados para você e seu negócio.
+              Tudo isso buscando segurança, e proteção para você e sua família, 
               controle e eficiência na gestão de negócios, 
               seja uma frota ou autônomo.</p>
           <div class="col-md-4">

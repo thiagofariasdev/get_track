@@ -31,6 +31,9 @@
             <div class="col-md-5 mr-md-auto py-5">
               <span class="caption d-block mb-2 font-secondary font-weight-bold">Sobre a get track</span>
               <h2 class="site-section-heading text-uppercase font-secondary mb-5">Tecnologia</h2>
+              <p>O equipamento instalado no seu veículo ou carga  e, também, o sistema de rastreamento foram 
+              desenvolvidos com as tecnologias mais avançadas para a coleta de dados, incluindo as zonas de sombras, 
+              comunicações, processamento, armazenamento de informação sobre o bem rastreado. </p>
               <p>Um aplicativo fácil de usar apresenta na palma de sua mão, pelo celular ou
                 tablet, todo descolamento de seu veículo ou carga. Apresenta também
                 relatórios de eficiência, checagem de itinerários, velocidade controlada,
