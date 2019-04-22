@@ -17,7 +17,7 @@
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <div style="max-height:90vh;display:flex;justify-content:center;align-icons:center;background-color:#000">
+          <div class="car-bg">
             <img src="/image/header1.jpg" class="img-fluid" alt="">
           </div>
           <div class="carousel-caption d-none d-md-block">
@@ -26,7 +26,7 @@
           </div>
         </div>
         <div class="carousel-item">
-          <div style="max-height:90vh;display:flex;justify-content:center;align-icons:center;background-color:#000">
+          <div class="car-bg">
             <img src="/image/hands_on.jpg" class="img-fluid" alt="">
           </div>
           <div class="carousel-caption d-none d-md-block">

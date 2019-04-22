@@ -77,10 +77,22 @@
     }
   }
   .bl{
-    color: #00aeef
+    color: #00aeef;
   }
   .pnk{
-    color: #c81d6f
+    color: #c81d6f;
+  }
+  .or{
+    color: #f99d1c;
+  }
+  .gr{
+    color: #72bf44;
+  }
+  .car-bg{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-color:#000;
   }
 </style>
 <!-- Global site tag (gtag.js) - Google Analytics -->
