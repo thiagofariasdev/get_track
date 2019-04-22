@@ -195,36 +195,41 @@
           </div>
           <div class="col-12 col-sm-12 col-md-5">
             <h4 class="text-uppercase"> Autônomos: aplicativos ou caminhoneiros </h4>
+            <p>Motoristas autônomos dependem totalmente do carro ou caminhão para exercer sua atividade profissional.</p> 
+            <p>Só o sistema de rastreamento pode oferecer a tranquilidade aumentando substancialmente a possibilidade de 
+            recuperação do veículo em caso de roubo ou furto.</p> 
+            <p>Além disso, todos os dados do seu veiculo transformam-se em dados para que você torne seu negócio mais eficiente, 
+            obtendo mais resultados nas suas corridas ou viagens.</p>
           </div>
           <div class="col-12 col-sm-12 col-md-3">
             <h5>
-              Funções: <i class="gt-bike" data-toggle="tooltip" title="Moto"></i>
+              Funções: <i class="gt-bike" data-toggle="tooltip" title="Veiculo"></i>
             </h5>
             <table>
-              <tbody>
-                <tr title="Seguir minha Moto" data-toggle="tooltip">
-                  <td><i class="gt-follow_bike pnk"></i></td>
-                  <td class="pnk">Seguir minha Moto</td>
+            <tbody>
+                <tr title="Seguir meu veiculo" data-toggle="tooltip">
+                  <td><i class="gt-follow_car bl"></i></td>
+                  <td class="bl">Seguir meu veiculo</td>
                 </tr>
-                <tr  title="Cerca eletronica" data-toggle="tooltip">
-                  <td><i class="gt-eletric_mauer pnk"></i></td>
-                  <td class="pnk">Cerca eletronica</td>
+                <tr title="Cerca eletronica" data-toggle="tooltip">
+                  <td><i class="gt-eletric_mauer bl"></i></td>
+                  <td class="bl">Cerca eletronica</td>
                 </tr>
                 <tr title="Movimento não permitido" data-toggle="tooltip">
-                  <td><i class="gt-denied_path pnk"></i></td>
-                  <td class="pnk">Movimento não permitido</td>
+                  <td><i class="gt-denied_path bl"></i></td>
+                  <td class="bl">Movimento não permitido</td>
                 </tr>
                 <tr title="Combustível e manutenção" data-toggle="tooltip">
-                  <td><i class="gt-fuel_man pnk"></i></td>
-                  <td class="pnk">Combustível e manutenção</td>
+                  <td><i class="gt-fuel_man bl"></i></td>
+                  <td class="bl">Combustível e manutenção</td>
                 </tr>
                 <tr title="Velocidade controlada" data-toggle="tooltip">
-                  <td><i  class="gt-control_vel pnk"></i></td>
-                  <td class="pnk">Velocidade controlada</td>
+                  <td><i  class="gt-control_vel bl"></i></td>
+                  <td class="bl">Velocidade controlada</td>
                 </tr>
                 <tr title="Condutores autorizados" data-toggle="tooltip">
-                  <td><i class="gt-allowed_cond pnk"></i></td>
-                  <td class="pnk">Condutores autorizados</td>
+                  <td><i class="gt-allowed_cond bl"></i></td>
+                  <td class="bl">Condutores autorizados</td>
                 </tr>
               </tbody>
             </table>
