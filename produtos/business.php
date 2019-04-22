@@ -159,7 +159,7 @@
                   <td class="or">Velocidade controlada</td>
                 </tr>
                 <tr title="Fora da Rota autorizada" data-toggle="tooltip">
-                  <td><i class="gt-allowed_cond or"></i></td>
+                  <td><i class="gt-out_of_traj or"></i></td>
                   <td class="or">Fora da Rota autorizada</td>
                 </tr>
               </tbody>
