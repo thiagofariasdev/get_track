@@ -24,11 +24,12 @@
               <div class="card-head p-2">
                 <h3 class="text-center">Safe</h3>
                 <table class="table">
-                  <tbody>
+                <tbody>
                     <tr>
                       <td>
                         <i data-toggle="tooltip" title="Seu Carro" class="gt-car" style="color: dodgerblue;"></i>
                       </td>
+                      <td>Seu carro</td>
                       <td>
                         <i class="icon-check"></i>
                       </td>
@@ -37,6 +38,7 @@
                       <td>
                       <i data-toggle="tooltip" title="Sua Moto" class="gt-bike" style="color: dodgerblue;"></i>
                       </td>
+                      <td>Sua moto</td>
                       <td>
                         <i class="icon-check"></i>
                       </td>
@@ -45,6 +47,7 @@
                       <td>
                       <i data-toggle="tooltip" title="Sua Frota" class="gt-fleet" style="color: dodgerblue;"></i>
                       </td>
+                      <td>Sua frota</td>
                       <td>
                         <i class="icon-check"></i>
                       </td>
@@ -53,6 +56,7 @@
                       <td>
                       <i data-toggle="tooltip" title="Sua Carga" class="gt-charge" style="color: dodgerblue;"></i>
                       </td>
+                      <td>Sua carga</td>
                       <td>
                         <i class="icon-check"></i>
                       </td>
@@ -61,13 +65,14 @@
                       <td>
                         <i data-toggle="tooltip" title="Autônomos" class="gt-car" style="color: dodgerblue;"></i>
                       </td>
+                      <td>Autônomos</td>
                       <td>
                         <i class="icon-check"></i>
                       </td>
                     </tr>
                     <tr>
-                      <td colspan='2'>
-                        <a href="contact"  class="btn btn-success block">R$69,90</a>
+                      <td colspan='3'>
+                        <a href="contact" class="btn btn-success block">R$69,90</a>
                       </td>
                     </tr>
                   </tbody>
