@@ -34,16 +34,16 @@
             </h5>
             <table>
               <tbody>
-                <tr>
-                  <td><i title="Seguir meu carro" data-toggle="tooltip" class="gt-follow_car bl"></i></td>
+                <tr title="Seguir meu carro" data-toggle="tooltip">
+                  <td><i class="gt-follow_car bl"></i></td>
                   <td class="bl">Seguir meu carro</td>
                 </tr>
-                <tr>
-                  <td><i title="Seguir meu carro" data-toggle="tooltip" class="gt-eletric_mauer bl"></i></td>
+                <tr title="Cerca eletronica" data-toggle="tooltip">
+                  <td><i class="gt-eletric_mauer bl"></i></td>
                   <td class="bl">Cerca eletronica</td>
                 </tr>
-                <tr>
-                  <td><i title="Seguir meu carro" data-toggle="tooltip" class="gt-denied_path bl"></i></td>
+                <tr title="Movimento não permitido" data-toggle="tooltip">
+                  <td><i class="gt-denied_path bl"></i></td>
                   <td class="bl">Movimento não permitido</td>
                 </tr>
                 <tr title="Combustível e manutenção" data-toggle="tooltip">
