@@ -125,7 +125,12 @@
           </div>
           <div class="col-12 col-sm-12 col-md-5">
             <h4 class="text-uppercase">Sua carga</h4>
-            
+            <p>Rastreie sua carga em tempo real, inclusive em áreas de sombra acompanhando todo trajeto, paradas, 
+              desvio de rotas e velocidade até o destino final.</p> 
+            <p>Com a  utilização de tecnologias avançadas para a coleta de dados, comunicações, processamento e armazenamento, 
+              tenha toda informação na palma de sua mão, com segurança.</p>  
+            <p>Compile os resultados analisando os dados capturados e armazenados pela  telemetria para buscar 
+              eficiência nos negócios.</p>
           </div>
           <div class="col-12 col-sm-12 col-md-3">
             <h5>
@@ -133,17 +138,17 @@
             </h5>
             <table>
               <tbody>
-                <tr>
-                  <td><i title="Seguir meu carro" data-toggle="tooltip" class="gt-follow_charge or"></i></td>
+                <tr title="Seguir minha carga" data-toggle="tooltip">
+                  <td><i class="gt-follow_charge or"></i></td>
                   <td class="or">Seguir minha carga</td>
-                </tr>
+                </tr title="Cerca eletronica" data-toggle="tooltip">
                 <tr>
-                  <td><i title="Seguir meu carro" data-toggle="tooltip" class="gt-eletric_mauer or"></i></td>
+                  <td><i class="gt-eletric_mauer or"></i></td>
                   <td class="or">Cerca eletronica</td>
                 </tr>
-                <tr>
-                  <td><i title="Seguir meu carro" data-toggle="tooltip" class="gt-denied_path or"></i></td>
-                  <td class="or">Movimento não permitido</td>
+                <tr title="Trajeto fora da Rota" data-toggle="tooltip">
+                  <td><i class="gt-denied_path or"></i></td>
+                  <td class="or">Trajeto fora da Rota</td>
                 </tr>
                 <tr title="Combustível e manutenção" data-toggle="tooltip">
                   <td><i class="gt-fuel_man or"></i></td>
@@ -153,9 +158,9 @@
                   <td><i  class="gt-control_vel or"></i></td>
                   <td class="or">Velocidade controlada</td>
                 </tr>
-                <tr title="Condutores autorizados" data-toggle="tooltip">
+                <tr title="Fora da Rota autorizada" data-toggle="tooltip">
                   <td><i class="gt-allowed_cond or"></i></td>
-                  <td class="or">Condutores autorizados</td>
+                  <td class="or">Fora da Rota autorizada</td>
                 </tr>
               </tbody>
             </table>
