@@ -79,6 +79,9 @@
   .bl{
     color: #00aeef
   }
+  .pnk{
+    color: #c81d6f
+  }
 </style>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-138355369-1"></script>
