@@ -16,14 +16,14 @@
         <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
       </ol>
       <div class="carousel-inner">
-        <div class="carousel-item active" style="height: 90vh" id="slide_1">
+        <div class="carousel-item active" id="slide_1">
           <img src="/image/header1.jpg" class="img-fluid" alt="">
           <div class="carousel-caption d-none d-md-block">
             <h5 style="color: #fff;">...</h5>
             <p>...</p>
           </div>
         </div>
-        <div class="carousel-item" style="height: 90vh" id="slide_1">
+        <div class="carousel-item" id="slide_1">
           <img src="/image/hands_on.jpg" class="img-fluid" alt="">
           <div class="carousel-caption d-none d-md-block">
             <h5 style="color: #fff;">...</h5>
