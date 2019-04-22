@@ -16,17 +16,21 @@
         <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
       </ol>
       <div class="carousel-inner">
-        <div class="carousel-item active" id="slide_1">
-          <img src="/image/header1.jpg" class="img-fluid" alt="">
+        <div class="carousel-item active">
+          <div style="max-height:90vh;display:flex;justify-content:center;align-icons:center;background-color:#000">
+            <img src="/image/header1.jpg" class="img-fluid" alt="">
+          </div>
           <div class="carousel-caption d-none d-md-block">
-            <h5 style="color: #fff;">...</h5>
+            <h3 style="color: #fff;">...</h5>
             <p>...</p>
           </div>
         </div>
-        <div class="carousel-item" id="slide_1">
-          <img src="/image/hands_on.jpg" class="img-fluid" alt="">
+        <div class="carousel-item">
+          <div style="max-height:90vh;display:flex;justify-content:center;align-icons:center;background-color:#000">
+            <img src="/image/hands_on.jpg" class="img-fluid" alt="">
+          </div>
           <div class="carousel-caption d-none d-md-block">
-            <h5 style="color: #fff;">...</h5>
+            <h3 style="color: #fff;">...</h5>
             <p>...</p>
           </div>
         </div>
@@ -103,22 +107,18 @@
 
     <div class="site-section" id="produtos">
       <div class="container">
-        <div class="row">
+        <div class="row mb-4">
           <div class="col-md-12 text-center">
-            <span class="caption d-block mb-2 font-secondary font-weight-bold">Segurança e rastreamento</span>
+            <span class="caption d-block mb-2 font-secondary font-weight-bold"></span>
             <h2 class="site-section-heading text-uppercase text-center font-secondary">Nossos Produtos</h2>
           </div>
         </div>
         <div class="row">
           <div class="col-md-12 block-13 nav-direction-white">
             <div class="row justify-content-center">
-              <div class="col-10 col-sm-6 col-md-4">
-                <picture>
-                  <source srcset="image/img-4-min.webp" type="image/webp">
-                  <source srcset="image/img-4-min.jpg" type="image/jpeg">
-                  <img src="image/img-4-min.jpg" alt="image" title="CAR" class="img-fluid">
-                </picture>
-                <div class="media-image-body pt-3">
+              <div class="col-10 col-sm-10 col-md-5">
+                <img src="./image/car2-min.jpg" alt="image" title="CAR" class="img-fluid">
+                <div class="media-image-body pt-2">
                   <h2 class="font-secondary text-uppercase text-center">Para você</h2>
                   <p class="text-justify">Monitoramento, rastreamento e bloqueio do seu veículo, em caso de roubo ou furto.
                   Você aciona o serviço de busca...</p>
@@ -129,13 +129,9 @@
                   </p>
                 </div>
               </div>
-              <div class="col-10 col-sm-6 col-md-4">
-                <picture>
-                  <source srcset="image/img-3-min.webp" type="image/webp">
-                  <source srcset="image/img-3-min.jpg" type="image/jpeg">
-                  <img src="image/img-3-min.jpg" alt="image" title="CARGA" class="img-fluid">
-                </picture>
-                <div class="media-image-body">
+              <div class="col-10 col-sm-10 col-md-5">
+                <img src="image/charge-min.jpg" alt="image" title="CARGA" class="img-fluid">
+                <div class="media-image-body pt-2">
                   <h2 class="font-secondary text-uppercase text-center">Para seu negócio</h2>
                   <p class="text-justify">A Get Track chegou ao mercado com um sistema exclusivo de rastreamento, em tempo real, 
                     até em área de sombra...</p>
@@ -161,7 +157,7 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-md-4 m-auto">
+          <div class="col-sm-12 col-md-5 m-auto">
             <div class="card">
               <div class="card-head p-2">
                 <h3 class="text-center">Safe</h3>
@@ -171,6 +167,7 @@
                       <td>
                         <i data-toggle="tooltip" title="Seu Carro" class="gt-car" style="color: dodgerblue;"></i>
                       </td>
+                      <td>Seu carro</td>
                       <td>
                         <i class="icon-check"></i>
                       </td>
@@ -179,6 +176,7 @@
                       <td>
                       <i data-toggle="tooltip" title="Sua Moto" class="gt-bike" style="color: dodgerblue;"></i>
                       </td>
+                      <td>Sua moto</td>
                       <td>
                         <i class="icon-check"></i>
                       </td>
@@ -187,6 +185,7 @@
                       <td>
                       <i data-toggle="tooltip" title="Sua Frota" class="gt-fleet" style="color: dodgerblue;"></i>
                       </td>
+                      <td>Sua frota</td>
                       <td>
                         <i class="icon-check"></i>
                       </td>
@@ -195,6 +194,7 @@
                       <td>
                       <i data-toggle="tooltip" title="Sua Carga" class="gt-charge" style="color: dodgerblue;"></i>
                       </td>
+                      <td>Sua carga</td>
                       <td>
                         <i class="icon-check"></i>
                       </td>
@@ -203,12 +203,13 @@
                       <td>
                         <i data-toggle="tooltip" title="Autônomos" class="gt-car" style="color: dodgerblue;"></i>
                       </td>
+                      <td>Autônomos</td>
                       <td>
                         <i class="icon-check"></i>
                       </td>
                     </tr>
                     <tr>
-                      <td colspan='2'>
+                      <td colspan='3'>
                         <button class="btn btn-success block">R$69,90</button>
                       </td>
                     </tr>

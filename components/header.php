@@ -1,4 +1,4 @@
-<div style="height:10px; background:orange; width:100wv;"></div>
+<div style="height:1vh; background:orange; width:100wv;"></div>
 
 <div class="site-mobile-menu">
   <div class="site-mobile-menu-header">
