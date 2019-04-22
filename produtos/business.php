@@ -70,16 +70,16 @@
             </h5>
             <table>
               <tbody>
-                <tr>
-                  <td><i title="Seguir meu carro" data-toggle="tooltip" class="gt-follow_fleet gr"></i></td>
-                  <td class="gr">Seguir meu carro</td>
+                <tr title="Seguir sua Frota" data-toggle="tooltip">
+                  <td><i class="gt-follow_fleet gr"></i></td>
+                  <td class="gr">Seguir sua Frota</td>
                 </tr>
-                <tr>
-                  <td><i title="Seguir meu carro" data-toggle="tooltip" class="gt-eletric_mauer gr"></i></td>
+                <tr title="Cerca eletronica" data-toggle="tooltip">
+                  <td><i class="gt-eletric_mauer gr"></i></td>
                   <td class="gr">Cerca eletronica</td>
                 </tr>
-                <tr>
-                  <td><i title="Seguir meu carro" data-toggle="tooltip" class="gt-denied_path gr"></i></td>
+                <tr title="Movimento não permitido" data-toggle="tooltip">
+                  <td><i class="gt-denied_path gr"></i></td>
                   <td class="gr">Movimento não permitido</td>
                 </tr>
                 <tr title="Combustível e manutenção" data-toggle="tooltip">
