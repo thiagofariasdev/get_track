@@ -11,10 +11,10 @@
         <h3 class="site-section-heading text-uppercase text-center">Para Você</h3>
         <div class="row">
           <div class="col-12 col-sm-12 col-md-4">
-            <img src="/image/car2.jpg" class="img-fluid" alt="Veículo">
+            <img src="/image/car2.jpg" class="img-fluid" alt="Veículo" title="Carro">
           </div>
           <div class="col-12 col-sm-12 col-md-4">
-            <h5 class="text-uppercase">Seu Veículo</h5>
+            <h5 class="text-uppercase">Seu Carro</h5>
             <p>Monitoramento, rastreamento e bloqueio do
               seu veículo, em caso de roubo ou furto.</p>
             <p>Você aciona o serviço de busca, disponível em
@@ -34,9 +34,9 @@
             </h5>
             <table>
               <tbody>
-                <tr title="Seguir meu carro" data-toggle="tooltip">
+                <tr title="Seguir minha Moto" data-toggle="tooltip">
                   <td><i class="gt-follow_car bl"></i></td>
-                  <td class="bl">Seguir meu carro</td>
+                  <td class="bl">Seguir minha Moto</td>
                 </tr>
                 <tr title="Cerca eletronica" data-toggle="tooltip">
                   <td><i class="gt-eletric_mauer bl"></i></td>
@@ -64,28 +64,34 @@
         </div>
         <div class="row">
           <div class="col-12 col-sm-12 col-md-4">
-            <img src="/image/bike.jpg" alt="MOTO" class="img-fluid">
+            <img src="/image/bike.jpg" alt="MOTO" class="img-fluid" title="Moto">
           </div>
           <div class="col-12 col-sm-12 col-md-4">
             <h5 class="text-uppercase">Sua Moto</h5>
-            <p></p>
+            <p>Monitoramento, rastreamento e bloqueio de sua moto, em caso de roubo ou furto.</p> 
+            <p>Você aciona o serviço de busca, disponível em toda América Latina, 24 horas 7 dias 
+              na semana que todas as providencias providências serão tomadas, junto as autoridades, 
+              para resgate as sua motocicleta com segurança.</p>
+            <p>Tudo isso na palma da mão, pelo aplicativo Get Track. 
+              Você ainda vai utilizar dos dados da Telemetria de sua moto, com alertas e avisos 
+              programados por você para manutenção, consumo de combustível, perímetro de movimentação do veículo.</p>
           </div>
           <div class="col-12 col-sm-12 col-md-4">
             <h5>
-              Funções: <i class="gt-bike" data-toggle="tooltip" title="Carro"></i>
+              Funções: <i class="gt-bike" data-toggle="tooltip" title="Moto"></i>
             </h5>
             <table>
               <tbody>
-                <tr>
-                  <td><i title="Seguir meu carro" data-toggle="tooltip" class="gt-follow_bike pnk"></i></td>
+                <tr title="Seguir meu carro" data-toggle="tooltip">
+                  <td><i class="gt-follow_bike pnk"></i></td>
                   <td class="pnk">Seguir meu carro</td>
                 </tr>
-                <tr>
-                  <td><i title="Seguir meu carro" data-toggle="tooltip" class="gt-eletric_mauer pnk"></i></td>
+                <tr  title="Cerca eletronica" data-toggle="tooltip">
+                  <td><i class="gt-eletric_mauer pnk"></i></td>
                   <td class="pnk">Cerca eletronica</td>
                 </tr>
-                <tr>
-                  <td><i title="Seguir meu carro" data-toggle="tooltip" class="gt-denied_path pnk"></i></td>
+                <tr title="Movimento não permitido" data-toggle="tooltip">
+                  <td><i class="gt-denied_path pnk"></i></td>
                   <td class="pnk">Movimento não permitido</td>
                 </tr>
                 <tr title="Combustível e manutenção" data-toggle="tooltip">
