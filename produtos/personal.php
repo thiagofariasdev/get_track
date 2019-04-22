@@ -34,9 +34,9 @@
             </h5>
             <table>
               <tbody>
-                <tr title="Seguir minha Moto" data-toggle="tooltip">
+                <tr title="Seguir meu Carro" data-toggle="tooltip">
                   <td><i class="gt-follow_car bl"></i></td>
-                  <td class="bl">Seguir minha Moto</td>
+                  <td class="bl">Seguir meu carro</td>
                 </tr>
                 <tr title="Cerca eletronica" data-toggle="tooltip">
                   <td><i class="gt-eletric_mauer bl"></i></td>
@@ -82,9 +82,9 @@
             </h5>
             <table>
               <tbody>
-                <tr title="Seguir meu carro" data-toggle="tooltip">
+                <tr title="Seguir minha Moto" data-toggle="tooltip">
                   <td><i class="gt-follow_bike pnk"></i></td>
-                  <td class="pnk">Seguir meu carro</td>
+                  <td class="pnk">Seguir minha Moto</td>
                 </tr>
                 <tr  title="Cerca eletronica" data-toggle="tooltip">
                   <td><i class="gt-eletric_mauer pnk"></i></td>
