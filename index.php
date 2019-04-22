@@ -117,7 +117,7 @@
           <div class="col-md-12 block-13 nav-direction-white">
             <div class="row justify-content-center">
               <div class="col-10 col-sm-10 col-md-5">
-                <img src="./image/car2-min.jpg" alt="image" title="CAR" class="img-fluid">
+                <img src="./image/car2-min.jpg" alt="image" title="VEICULO" class="img-fluid">
                 <div class="media-image-body pt-2">
                   <h2 class="font-secondary text-uppercase text-center">Para você</h2>
                   <p class="text-justify">Monitoramento, rastreamento e bloqueio do seu veículo, em caso de roubo ou furto.
