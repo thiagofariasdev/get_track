@@ -19,7 +19,7 @@
               seu veículo, em caso de roubo ou furto.</p>
             <p class="text-justify">Você aciona o serviço de busca disponível em toda América Latina, 
               24 horas 7 dias na semana e  todas as providências serão tomadas, junto as autoridades, 
-              para resgate do seu carro. Tudo isso na palma da mão, pelo aplicativo Get Track! 
+              para resgate do seu carro. Tudo isso na palma da mão, pela plataforma Get Track! 
               Você ainda vai contar com todos os dados da Telemetria do seu carro para manutenção, 
               consumo de combustível, perímetro de movimentação do veículo, além de poder  programar 
               diversos alertas e avisos.</p>
@@ -67,7 +67,7 @@
             <p class="text-justify">Monitoramento, rastreamento e bloqueio de sua moto, em caso de roubo ou furto.</p> 
             <p class="text-justify">Você aciona o serviço de busca disponível em toda América Latina, 
               24 horas 7 dias na semana e  todas as providências serão tomadas, junto as autoridades, 
-              para resgate de sua motocicleta. Tudo isso na palma da mão, pelo aplicativo Get Track! 
+              para resgate de sua motocicleta. Tudo isso na palma da mão, pelo plataforma Get Track! 
               Você ainda vai contar com todos os dados da Telemetria da sua moto para manutenção, 
               consumo de combustível, perímetro de movimentação, além de poder  programar diversos 
               alertas e avisos.</p>
