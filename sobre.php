@@ -9,7 +9,7 @@
 
   <div class="site-wrap">
     <?php include('./components/header.php');?>
-      <div id="sobre" class="site-half">
+    <div id="sobre" class="site-half">
       <div class="img-bg-1" id="site-half-2"></div>
         <div class="container">
           <div class="row no-gutters align-items-stretch">
@@ -43,12 +43,8 @@
                 relatórios de eficiência, checagem de itinerários, velocidade controlada,
                 tempo de parada ou desvio de rotas previamente traçadas. 
                 Você também poderá programar avisos ou alertas para qualquer alteração de rota..</p>
-              <p class="text-justify">O equipamento instalado no seu veículo ou carga  e, também, 
-                o sistema de rastreamento foram desenvolvidos com as tecnologias mais 
-                avançadas para a coleta de dados, incluindo a comunicação das informações 
-                das zonas de sombras, processamento, armazenamento de dados sobre o bem rastreado.
-                Tudo isso para aumentar a segurança do seu patrimônio ou a eficiência no negócio, 
-                pela análise dos dados armazenados sobre o desempenho de sua frota</p>
+              <p class="text-justify" id="showMore2"></p>
+              <button id="showMoreBtn2" class="btn btn-outline-warning"> ler mais </button>
             </div>
           </div>
       </div>
