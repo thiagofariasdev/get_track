@@ -100,6 +100,9 @@
     align-items:center;
     background-color:#000;
   }
+  .table td, .table th{
+    vertical-align: inherit !important;
+  }
 </style>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-138355369-1"></script>
