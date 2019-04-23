@@ -49,10 +49,10 @@
       <div class="img-bg-1" id="site-half-2"></div>
         <div class="container">
           <div class="row no-gutters align-items-stretch">
-            <div class="col-md-5 ml-md-auto py-5">
+            <div class="col-md-5 ml-md-auto py-3">
               <span class="caption d-block mb-2 font-secondary font-weight-bold">Sobre a get track</span>
               <h2 class="site-section-heading text-uppercase font-secondary mb-5">Quem somos?</h2>
-              <p>A GetTrack é uma empresa de rastreamento de veículos, motos e cargas que combina segurança, facilidade de uso,
+              <p class="text-justify">A GetTrack é uma empresa de rastreamento de veículos, motos e cargas que combina segurança, facilidade de uso,
                 qualidade e tecnologias de última geração no serviço de localização, bloqueio total e telemetria dos veículos. Tudo isso
                 aliando o melhor equipamento à melhor tecnologia e infra-estrutura de rastreamento.</p>
             </div>
@@ -64,10 +64,10 @@
       <div class="img-bg-1 right" id="site-half-1"></div>
         <div class="container">
           <div class="row no-gutters align-items-stretch">
-            <div class="col-md-5 mr-md-auto py-5">
+            <div class="col-md-5 mr-md-auto py-3">
               <span class="caption d-block mb-2 font-secondary font-weight-bold">Sobre a get track</span>
               <h2 class="site-section-heading text-uppercase font-secondary mb-5">Tecnologia</h2>
-              <p>Um aplicativo fácil de usar apresenta na palma de sua mão, pelo celular ou
+              <p class="text-justify">Uma plataforma fácil de usar apresenta na palma de sua mão, pelo celular ou
                 tablet, todo descolamento de seu veículo ou carga. Apresenta também
                 relatórios de eficiência, checagem de itinerários, velocidade controlada,
                 tempo de parada ou desvio de rotas previamente traçadas. 
@@ -82,8 +82,8 @@
         <div class="row border-responsive">
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-0 border-right">
             <div class="text-center">
-              <i class="gt-eletric_mauer bl" style="font-size: 120px;"></i>
-              <h3 class="text-uppercase h4 mb-3">Onde está seu veículo</h3>
+              <i class="gt-eletric_mauer bl" style="font-size: 64px"></i>
+              <h3 class="text-uppercase h4 mb-3 pt-3">Onde está seu veículo</h3>
               <p> Acompanhe em tempo real
                 qualquer movimentação do
                 seu veiculo, moto ou frota
@@ -92,8 +92,8 @@
           </div>
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-0 border-right">
             <div class="text-center">
-              <i class="gt-store_data bl" style="font-size: 120px;"></i>
-              <h3 class="text-uppercase h4 mb-3">Dados Armazenados</h3>
+              <i class="gt-store_data bl" style="font-size: 64px"></i>
+              <h3 class="text-uppercase h4 mb-3 pt-3">Dados Armazenados</h3>
               <p>Veja o consumo de
                 combustível e a velocidade
                 média, manutenção de peças
@@ -104,8 +104,8 @@
           </div>
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
             <div class="text-center">
-              <i class="gt-safe bl" style="font-size: 120px;"></i>
-              <h3 class="text-uppercase h4 mb-3">Segurança e proteção</h3>
+              <i class="gt-safe bl" style="font-size: 64px"></i>
+              <h3 class="text-uppercase h4 mb-3 pt-3">Segurança e proteção</h3>
               <p> Programe Alertas e Avisos:
                 Movimentação no
                 estacionamento, desvio de
@@ -118,11 +118,11 @@
           </div>
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
             <div class="text-center">
-              <i class="gt-support bl" style="font-size: 120px;"></i>
-              <h3 class="text-uppercase h4 mb-3">Suporte ao aplicativo</h3>
+              <i class="gt-support bl" style="font-size: 64px"></i>
+              <h3 class="text-uppercase h4 mb-3 pt-3">Suporte</h3>
               <p>Uma equipe dedicada a
                 atender e esclarecer dúvidas
-                sobre aplicativo ou
+                sobre a plataforma ou
                 funcionalidades.</p>
             </div>
           </div>
@@ -190,7 +190,7 @@
                   <tbody>
                     <tr>
                       <td>
-                        <i data-toggle="tooltip" title="Seu Carro" class="gt-car" style="color: dodgerblue;"></i>
+                        <i data-toggle="tooltip" title="Seu Carro" class="gt-car" style="color: dodgerblue; font-size: 42px;"></i>
                       </td>
                       <td>Seu carro</td>
                       <td>
@@ -199,7 +199,7 @@
                     </tr>
                     <tr>
                       <td>
-                      <i data-toggle="tooltip" title="Sua Moto" class="gt-bike" style="color: dodgerblue;"></i>
+                      <i data-toggle="tooltip" title="Sua Moto" class="gt-bike" style="color: dodgerblue; font-size: 42px;"></i>
                       </td>
                       <td>Sua moto</td>
                       <td>
@@ -208,7 +208,7 @@
                     </tr>
                     <tr>
                       <td>
-                      <i data-toggle="tooltip" title="Sua Frota" class="gt-fleet" style="color: dodgerblue;"></i>
+                      <i data-toggle="tooltip" title="Sua Frota" class="gt-fleet" style="color: dodgerblue; font-size: 42px;"></i>
                       </td>
                       <td>Sua frota</td>
                       <td>
@@ -217,7 +217,7 @@
                     </tr>
                     <tr>
                       <td>
-                      <i data-toggle="tooltip" title="Sua Carga" class="gt-charge" style="color: dodgerblue;"></i>
+                      <i data-toggle="tooltip" title="Sua Carga" class="gt-charge" style="color: dodgerblue; font-size: 42px;"></i>
                       </td>
                       <td>Sua carga</td>
                       <td>
@@ -226,7 +226,7 @@
                     </tr>
                     <tr>
                       <td>
-                        <i data-toggle="tooltip" title="Autônomos" class="gt-car" style="color: dodgerblue;"></i>
+                        <i data-toggle="tooltip" title="Autônomos" class="gt-car" style="color: dodgerblue; font-size: 42px;"></i>
                       </td>
                       <td>Autônomos</td>
                       <td>
@@ -374,7 +374,10 @@
       <div class="container">
         <div class="row align-items-center" style="justify-content: space-between;">
           <div class="col-md-6 text-center text-md-left mb-3 mb-md-0">
-            <h2 class="text-uppercase text-white mb-0">Tecnologia para sua empresa</h2>
+            <h2 class="text-uppercase text-white mb-0">
+              Controle sua frota.
+              <wbr/> Otimize recursos gerando
+              <wbr/> mais resultados.</h2>
           </div>
           <div class="col-md-3 text-center text-md-left">
             <a href="/contact" class="btn btn-bg-primary d-inline-block d-md-block font-secondary text-uppercase">Contato</a>

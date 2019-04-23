@@ -34,7 +34,7 @@
               <p>O equipamento instalado no seu veículo ou carga  e, também, o sistema de rastreamento foram 
               desenvolvidos com as tecnologias mais avançadas para a coleta de dados, incluindo as zonas de sombras, 
               comunicações, processamento, armazenamento de informação sobre o bem rastreado. </p>
-              <p>Um aplicativo fácil de usar apresenta na palma de sua mão, pelo celular ou
+              <p>Uma plataforma fácil de usar apresenta na palma de sua mão, pelo celular ou
                 tablet, todo descolamento de seu veículo ou carga. Apresenta também
                 relatórios de eficiência, checagem de itinerários, velocidade controlada,
                 tempo de parada ou desvio de rotas previamente traçadas. Você também

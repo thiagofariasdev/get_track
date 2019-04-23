@@ -13,14 +13,6 @@
             <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
               <div class="carousel-inner">
                 <div class="carousel-item active">
-                  <div class="car-bg">
-                    <img src="/image/bike_fleet-min.jpg" class="img-fluid" alt="">
-                  </div>
-                  <div class="carousel-caption">
-                    <p>Motos</p>
-                  </div>
-                </div>
-                <div class="carousel-item">
                   <div class="carbg">
                     <img src="/image/car_fleet-min.jpg" class="img-fluid" alt="">
                   </div>
@@ -49,7 +41,7 @@
           </div>
           <div class="col-12 col-sm-12 col-md-5">
             <h4 class="text-uppercase">Sua frota</h4>
-            <p>Controle sua frota e otimize recursos gerando mais resultados.
+            <p class="text-justify">Controle sua frota e otimize recursos gerando mais resultados.
               A Get Track chegou ao mercado com um sistema exclusivo de
               rastreamento, em tempo real, até em área de sombra, oferecendo aos
               seus clientes uma ferramenta completa, com relatórios, para gestão
@@ -60,38 +52,38 @@
               <li>redução de custos com manutenção e combustível</li>
               <li>otimização de rotas</li>
               <li>conservação do patrimônio</li>
-              <li>Tempo de parada e padrões de dirigibilidade</li>
-              <li>Jornada de Trabalho dos seus motoristas</li>
+              <li>tempo de parada e padrões de dirigibilidade</li>
+              <li>jornada de Trabalho dos seus motoristas</li>
             </ul>
           </div>
           <div class="col-12 col-sm-12 col-md-3">
             <h5>
-              Funções: <i class="gt-fleet" data-toggle="tooltip" title="Frota"></i>
+              Funções:
             </h5>
             <table>
               <tbody>
-                <tr title="Seguir sua Frota" data-toggle="tooltip">
-                  <td><i class="gt-follow_fleet gr"></i></td>
-                  <td class="gr">Seguir sua Frota</td>
+                <tr title="Seguir sua frota" data-toggle="tooltip">
+                  <td><i class="gt-follow_fleet gr fs-1"></i></td>
+                  <td class="gr">Seguir sua frota</td>
                 </tr>
                 <tr title="Cerca eletronica" data-toggle="tooltip">
-                  <td><i class="gt-eletric_mauer gr"></i></td>
+                  <td><i class="gt-eletric_mauer gr fs-1"></i></td>
                   <td class="gr">Cerca eletronica</td>
                 </tr>
                 <tr title="Movimento não permitido" data-toggle="tooltip">
-                  <td><i class="gt-denied_path gr"></i></td>
+                  <td><i class="gt-denied_path gr fs-1"></i></td>
                   <td class="gr">Movimento não permitido</td>
                 </tr>
                 <tr title="Combustível e manutenção" data-toggle="tooltip">
-                  <td><i class="gt-fuel_man gr"></i></td>
+                  <td><i class="gt-fuel_man gr fs-1"></i></td>
                   <td class="gr">Combustível e manutenção</td>
                 </tr>
                 <tr title="Velocidade controlada" data-toggle="tooltip">
-                  <td><i  class="gt-control_vel gr"></i></td>
+                  <td><i  class="gt-control_vel gr fs-1"></i></td>
                   <td class="gr">Velocidade controlada</td>
                 </tr>
                 <tr title="Condutores autorizados" data-toggle="tooltip">
-                  <td><i class="gt-allowed_cond gr"></i></td>
+                  <td><i class="gt-allowed_cond gr fs-1"></i></td>
                   <td class="gr">Condutores autorizados</td>
                 </tr>
               </tbody>
@@ -125,41 +117,41 @@
           </div>
           <div class="col-12 col-sm-12 col-md-5">
             <h4 class="text-uppercase">Sua carga</h4>
-            <p>Rastreie sua carga em tempo real, inclusive em áreas de sombra acompanhando todo trajeto, paradas, 
+            <p class="text-justify">Rastreie sua carga em tempo real, inclusive em áreas de sombra acompanhando todo trajeto, paradas, 
               desvio de rotas e velocidade até o destino final.</p> 
-            <p>Com a  utilização de tecnologias avançadas para a coleta de dados, comunicações, processamento e armazenamento, 
+            <p class="text-justify">Com a  utilização de tecnologias avançadas para a coleta de dados, comunicações, processamento e armazenamento, 
               tenha toda informação na palma de sua mão, com segurança.</p>  
-            <p>Compile os resultados analisando os dados capturados e armazenados pela  telemetria para buscar 
+            <p class="text-justify">Compile os resultados analisando os dados capturados e armazenados pela  telemetria para buscar 
               eficiência nos negócios.</p>
           </div>
           <div class="col-12 col-sm-12 col-md-3">
             <h5>
-              Funções: <i class="gt-charge" data-toggle="tooltip" title="Carga"></i>
+              Funções:
             </h5>
             <table>
               <tbody>
                 <tr title="Seguir minha carga" data-toggle="tooltip">
-                  <td><i class="gt-follow_charge or"></i></td>
+                  <td><i class="gt-follow_charge or fs-1"></i></td>
                   <td class="or">Seguir minha carga</td>
                 </tr title="Cerca eletronica" data-toggle="tooltip">
                 <tr>
-                  <td><i class="gt-eletric_mauer or"></i></td>
+                  <td><i class="gt-eletric_mauer or fs-1"></i></td>
                   <td class="or">Cerca eletronica</td>
                 </tr>
-                <tr title="Trajeto fora da Rota" data-toggle="tooltip">
-                  <td><i class="gt-denied_path or"></i></td>
-                  <td class="or">Trajeto fora da Rota</td>
+                <tr title="Trajeto fora da rota" data-toggle="tooltip">
+                  <td><i class="gt-denied_path or fs-1"></i></td>
+                  <td class="or">Trajeto fora da rota</td>
                 </tr>
                 <tr title="Combustível e manutenção" data-toggle="tooltip">
-                  <td><i class="gt-fuel_man or"></i></td>
+                  <td><i class="gt-fuel_man or fs-1"></i></td>
                   <td class="or">Combustível e manutenção</td>
                 </tr>
                 <tr title="Velocidade controlada" data-toggle="tooltip">
-                  <td><i  class="gt-control_vel or"></i></td>
+                  <td><i  class="gt-control_vel or fs-1"></i></td>
                   <td class="or">Velocidade controlada</td>
                 </tr>
                 <tr title="Fora da Rota autorizada" data-toggle="tooltip">
-                  <td><i class="gt-out_of_traj or"></i></td>
+                  <td><i class="gt-out_of_traj or fs-1"></i></td>
                   <td class="or">Fora da Rota autorizada</td>
                 </tr>
               </tbody>
@@ -195,40 +187,40 @@
           </div>
           <div class="col-12 col-sm-12 col-md-5">
             <h4 class="text-uppercase"> Autônomos: aplicativos ou caminhoneiros </h4>
-            <p>Motoristas autônomos dependem totalmente do carro ou caminhão para exercer sua atividade profissional.</p> 
-            <p>Só o sistema de rastreamento pode oferecer a tranquilidade aumentando substancialmente a possibilidade de 
+            <p class="text-justify">Motoristas autônomos dependem totalmente do carro ou caminhão para exercer sua atividade profissional.</p> 
+            <p class="text-justify">Só o sistema de rastreamento pode oferecer a tranquilidade aumentando substancialmente a possibilidade de 
             recuperação do veículo em caso de roubo ou furto.</p> 
-            <p>Além disso, todos os dados do seu veiculo transformam-se em dados para que você torne seu negócio mais eficiente, 
+            <p class="text-justify">Além disso, todos os dados do seu veiculo transformam-se em dados para que você torne seu negócio mais eficiente, 
             obtendo mais resultados nas suas corridas ou viagens.</p>
           </div>
           <div class="col-12 col-sm-12 col-md-3">
             <h5>
-              Funções: <i class="gt-bike" data-toggle="tooltip" title="Veiculo"></i>
+              Funções:
             </h5>
             <table>
             <tbody>
                 <tr title="Seguir meu veiculo" data-toggle="tooltip">
-                  <td><i class="gt-follow_car bl"></i></td>
+                  <td><i class="gt-follow_car bl fs-1"></i></td>
                   <td class="bl">Seguir meu veiculo</td>
                 </tr>
                 <tr title="Cerca eletronica" data-toggle="tooltip">
-                  <td><i class="gt-eletric_mauer bl"></i></td>
+                  <td><i class="gt-eletric_mauer bl fs-1"></i></td>
                   <td class="bl">Cerca eletronica</td>
                 </tr>
                 <tr title="Movimento não permitido" data-toggle="tooltip">
-                  <td><i class="gt-denied_path bl"></i></td>
+                  <td><i class="gt-denied_path bl fs-1"></i></td>
                   <td class="bl">Movimento não permitido</td>
                 </tr>
                 <tr title="Combustível e manutenção" data-toggle="tooltip">
-                  <td><i class="gt-fuel_man bl"></i></td>
+                  <td><i class="gt-fuel_man bl fs-1"></i></td>
                   <td class="bl">Combustível e manutenção</td>
                 </tr>
                 <tr title="Velocidade controlada" data-toggle="tooltip">
-                  <td><i  class="gt-control_vel bl"></i></td>
+                  <td><i  class="gt-control_vel bl fs-1"></i></td>
                   <td class="bl">Velocidade controlada</td>
                 </tr>
                 <tr title="Condutores autorizados" data-toggle="tooltip">
-                  <td><i class="gt-allowed_cond bl"></i></td>
+                  <td><i class="gt-allowed_cond bl fs-1"></i></td>
                   <td class="bl">Condutores autorizados</td>
                 </tr>
               </tbody>

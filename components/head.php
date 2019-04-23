@@ -88,6 +88,12 @@
   .gr{
     color: #72bf44;
   }
+  .fs-1{
+    font-size: 42px;
+  }
+  .fs-2{
+    font-size: 64px;
+  }
   .car-bg{
     display:flex;
     justify-content:center;
