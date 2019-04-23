@@ -53,7 +53,7 @@
               <li>otimização de rotas</li>
               <li>conservação do patrimônio</li>
               <li>tempo de parada e padrões de dirigibilidade</li>
-              <li>jornada de Trabalho dos seus motoristas</li>
+              <li>jornada de trabalho dos seus motoristas</li>
             </ul>
           </div>
           <div class="col-12 col-sm-12 col-md-3">
