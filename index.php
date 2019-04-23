@@ -59,7 +59,7 @@
                 <li>Monitoramento, Rastreamento e Bloqueio 24h</li>
                 <li>Abrangência em toda América Latina</li>
                 <li>Telemetria com relatórios para gestão do veículo ou frota</li>
-                <li>Aplicativo para acompanhamento na palma da mão</li>
+                <li>Plataforma para acompanhamento na palma da mão</li>
                 <li>Instalação fácil e rápida</li>
               </ul>
             </div>
