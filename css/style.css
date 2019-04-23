@@ -9,7 +9,7 @@ body{line-height:1.7;color:rgba(0,0,0,.5);font-weight:400;font-size:1rem;font-fa
   width:100%;
   position:relative
 }
-.fg-blue::after{content:'';background-color:rgba(18,35,69,.815);position:absolute;top:0;bottom:0;left:0;right:0}
+.fg-blue::after{content:'';background-color:rgba(18, 35, 69, 0.247);position:absolute;top:0;bottom:0;left:0;right:0}
 .fg-blue-cont{position:absolute;z-index:1;height:50vh;top:20vh}
 .fg-blue-name{position:absolute;z-index:1;top:10vh;left:40%;width:40vw}
 .fg-blue-resp{display:none}
