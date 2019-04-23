@@ -25,6 +25,27 @@
             <div class="fg-blue-cont">
               <img src="./image/icone-1.png" style="height: 50%" />
               <div class="fg-blue-name">
+                <h3 style="font-family: 'Default Font';color:#fff; ">Contato GetTrack</h3>
+              </div>
+            </div>
+            <div class="fg-blue">
+            </div>
+            <div style="height:30vh">
+              <div class="fg-blue-resp">
+                <h4 style="font-family: 'Default Font';">Contato GetTrack</h4>
+              </div>
+              <div style="padding: 17px;">
+                <h5><span class="icon-mail_outline"></span> contato@gettrack.com.br</h5>
+                <p><span class="icon-phone"></span> (51) 996323956</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!--div class="row">
+          <div class="col-lg-12 relative">
+            <div class="fg-blue-cont">
+              <img src="./image/icone-1.png" style="height: 50%" />
+              <div class="fg-blue-name">
                 <h3 style="font-family: 'Default Font';color:#fff; ">Cristiane Barcellos</h3>
               </div>
             </div>
@@ -40,7 +61,7 @@
               </div>
             </div>
           </div>
-        </div>
+        </div-->
       </div>
     </div>
     <?php include('./components/footer.php');?>
