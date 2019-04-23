@@ -54,7 +54,14 @@
               <h2 class="site-section-heading text-uppercase font-secondary mb-5">Quem somos?</h2>
               <p class="text-justify">A GetTrack é uma empresa de rastreamento de veículos, motos e cargas que combina segurança, facilidade de uso,
                 qualidade e tecnologias de última geração no serviço de localização, bloqueio total e telemetria dos veículos. Tudo isso
-                aliando o melhor equipamento à melhor tecnologia e infra-estrutura de rastreamento.</p>
+                aliado ao melhor equipamento e infra-estrutura de rastreamento.</p>
+              <ul>
+                <li>Monitoramento, Rastreamento e Bloqueio 24h</li>
+                <li>Abrangência em toda América Latina</li>
+                <li>Telemetria com relatórios para gestão do veículo ou frota</li>
+                <li>Aplicativo para acompanhamento na palma da mão</li>
+                <li>Instalação fácil e rápida</li>
+              </ul>
             </div>
           </div>
       </div>
@@ -72,6 +79,8 @@
                 relatórios de eficiência, checagem de itinerários, velocidade controlada,
                 tempo de parada ou desvio de rotas previamente traçadas. 
                 Você também poderá programar avisos ou alertas para qualquer alteração de rota..</p>
+              <p class="text-justify" id="showMore2"></p>
+              <button id="showMoreBtn2" class="btn btn-outline-warning"> ler mais </button>
             </div>
           </div>
       </div>
@@ -80,7 +89,7 @@
     <div class="site-section">
       <div class="container">
         <div class="row border-responsive">
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-0 border-right">
+          <div class="col-md-6 col-lg-6 mb-4 mb-lg-0 border-right">
             <div class="text-center">
               <i class="gt-eletric_mauer bl" style="font-size: 64px"></i>
               <h3 class="text-uppercase h4 mb-3 pt-3">Onde está seu veículo</h3>
@@ -90,7 +99,7 @@
                 pelo celular ou tablet. </p>
             </div>
           </div>
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-0 border-right">
+          <div class="col-md-6 col-lg-6 mb-4 mb-lg-0">
             <div class="text-center">
               <i class="gt-store_data bl" style="font-size: 64px"></i>
               <h3 class="text-uppercase h4 mb-3 pt-3">Dados Armazenados</h3>
@@ -102,7 +111,7 @@
                 seu veiculo ou frota.</p>
             </div>
           </div>
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
+          <div class="col-md-6 col-lg-6 mb-4 mb-lg-0 border-right">
             <div class="text-center">
               <i class="gt-safe bl" style="font-size: 64px"></i>
               <h3 class="text-uppercase h4 mb-3 pt-3">Segurança e proteção</h3>
@@ -116,7 +125,7 @@
                 roubo ou furto.</p>
             </div>
           </div>
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
+          <div class="col-md-6 col-lg-6 mb-4 mb-lg-0">
             <div class="text-center">
               <i class="gt-support bl" style="font-size: 64px"></i>
               <h3 class="text-uppercase h4 mb-3 pt-3">Suporte</h3>

@@ -9,16 +9,23 @@
 
   <div class="site-wrap">
     <?php include('./components/header.php');?>
-    <div id="sobre" class="site-half">
+      <div id="sobre" class="site-half">
       <div class="img-bg-1" id="site-half-2"></div>
         <div class="container">
           <div class="row no-gutters align-items-stretch">
-            <div class="col-md-5 ml-md-auto py-5">
+            <div class="col-md-5 ml-md-auto py-3">
               <span class="caption d-block mb-2 font-secondary font-weight-bold">Sobre a get track</span>
               <h2 class="site-section-heading text-uppercase font-secondary mb-5">Quem somos?</h2>
-              <p>A GetTrack é uma empresa de rastreamento de veículos, motos e cargas que combina segurança, facilidade de uso,
+              <p class="text-justify">A GetTrack é uma empresa de rastreamento de veículos, motos e cargas que combina segurança, facilidade de uso,
                 qualidade e tecnologias de última geração no serviço de localização, bloqueio total e telemetria dos veículos. Tudo isso
-                aliando o melhor equipamento à melhor tecnologia e infra-estrutura de rastreamento.</p>
+                aliado ao melhor equipamento e infra-estrutura de rastreamento.</p>
+              <ul>
+                <li>Monitoramento, Rastreamento e Bloqueio 24h</li>
+                <li>Abrangência em toda América Latina</li>
+                <li>Telemetria com relatórios para gestão do veículo ou frota</li>
+                <li>Aplicativo para acompanhamento na palma da mão</li>
+                <li>Instalação fácil e rápida</li>
+              </ul>
             </div>
           </div>
       </div>
@@ -28,18 +35,20 @@
       <div class="img-bg-1 right" id="site-half-1"></div>
         <div class="container">
           <div class="row no-gutters align-items-stretch">
-            <div class="col-md-5 mr-md-auto py-5">
+            <div class="col-md-5 mr-md-auto py-3">
               <span class="caption d-block mb-2 font-secondary font-weight-bold">Sobre a get track</span>
               <h2 class="site-section-heading text-uppercase font-secondary mb-5">Tecnologia</h2>
-              <p>O equipamento instalado no seu veículo ou carga  e, também, o sistema de rastreamento foram 
-              desenvolvidos com as tecnologias mais avançadas para a coleta de dados, incluindo as zonas de sombras, 
-              comunicações, processamento, armazenamento de informação sobre o bem rastreado. </p>
-              <p>Uma plataforma fácil de usar apresenta na palma de sua mão, pelo celular ou
+              <p class="text-justify">Uma plataforma fácil de usar apresenta na palma de sua mão, pelo celular ou
                 tablet, todo descolamento de seu veículo ou carga. Apresenta também
                 relatórios de eficiência, checagem de itinerários, velocidade controlada,
-                tempo de parada ou desvio de rotas previamente traçadas. Você também
-                poderá programar avisos ou alertas que avisarão caso haja qualquer
-                alteração.</p>
+                tempo de parada ou desvio de rotas previamente traçadas. 
+                Você também poderá programar avisos ou alertas para qualquer alteração de rota..</p>
+              <p class="text-justify">O equipamento instalado no seu veículo ou carga  e, também, 
+                o sistema de rastreamento foram desenvolvidos com as tecnologias mais 
+                avançadas para a coleta de dados, incluindo a comunicação das informações 
+                das zonas de sombras, processamento, armazenamento de dados sobre o bem rastreado.
+                Tudo isso para aumentar a segurança do seu patrimônio ou a eficiência no negócio, 
+                pela análise dos dados armazenados sobre o desempenho de sua frota</p>
             </div>
           </div>
       </div>
@@ -48,30 +57,56 @@
     <div class="site-section">
       <div class="container">
         <div class="row border-responsive">
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-0 border-right">
+          <div class="col-md-6 col-lg-6 mb-4 mb-lg-0 border-right">
             <div class="text-center">
-              <img src="./image/secure.svg" alt="SECURE" style="height:64px;margin-bottom:15px;">
-              <h3 class="text-uppercase h4 mb-3">Segurança</h3>
-              <p> Monitoramento, Rastreamento e Bloqueio 24h </p>
+              <i class="gt-eletric_mauer bl" style="font-size: 64px"></i>
+              <h3 class="text-uppercase h4 mb-3 pt-3">Onde está seu veículo</h3>
+              <p> Acompanhe em tempo real
+                qualquer movimentação do
+                seu veiculo, moto ou frota
+                pelo celular ou tablet. </p>
             </div>
           </div>
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-0 border-right">
+          <div class="col-md-6 col-lg-6 mb-4 mb-lg-0">
             <div class="text-center">
-              <img src="./image/cover.svg" alt="COVER" style="height:64px;margin-bottom:15px;">
-              <h3 class="text-uppercase h4 mb-3">Cobertura</h3>
-              <p>Abrangência em toda América Latina, integrado a aplicativo de acompanhamento</p>
+              <i class="gt-store_data bl" style="font-size: 64px"></i>
+              <h3 class="text-uppercase h4 mb-3 pt-3">Dados Armazenados</h3>
+              <p>Veja o consumo de
+                combustível e a velocidade
+                média, manutenção de peças
+                entre outros dados para
+                ajudar na gestão eficiente do
+                seu veiculo ou frota.</p>
             </div>
           </div>
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
+          <div class="col-md-6 col-lg-6 mb-4 mb-lg-0 border-right">
             <div class="text-center">
-              <img src="./image/dash.svg" alt="DASHICON" style="height:64px;margin-bottom:15px;">
-              <h3 class="text-uppercase h4 mb-3">Agilidade</h3>
-              <p> Tenha tudo na palma da mão pelo app de instalação fácil e rápida</p>
+              <i class="gt-safe bl" style="font-size: 64px"></i>
+              <h3 class="text-uppercase h4 mb-3 pt-3">Segurança e proteção</h3>
+              <p> Programe Alertas e Avisos:
+                Movimentação no
+                estacionamento, desvio de
+                rota, paradas não
+                programadas, entre outros.
+                Acione a central com apenas
+                alguns cliques em caso de
+                roubo ou furto.</p>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-6 mb-4 mb-lg-0">
+            <div class="text-center">
+              <i class="gt-support bl" style="font-size: 64px"></i>
+              <h3 class="text-uppercase h4 mb-3 pt-3">Suporte</h3>
+              <p>Uma equipe dedicada a
+                atender e esclarecer dúvidas
+                sobre a plataforma ou
+                funcionalidades.</p>
             </div>
           </div>
         </div>
       </div>
     </div>
+
     <?php include('./components/footer.php')?>
   </div>
   <?php include('./components/scripts.php')?>

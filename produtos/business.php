@@ -117,12 +117,12 @@
           </div>
           <div class="col-12 col-sm-12 col-md-5">
             <h4 class="text-uppercase">Sua carga</h4>
-            <p class="text-justify">Rastreie sua carga em tempo real, inclusive em áreas de sombra acompanhando todo trajeto, paradas, 
-              desvio de rotas e velocidade até o destino final.</p> 
-            <p class="text-justify">Com a  utilização de tecnologias avançadas para a coleta de dados, comunicações, processamento e armazenamento, 
-              tenha toda informação na palma de sua mão, com segurança.</p>  
-            <p class="text-justify">Compile os resultados analisando os dados capturados e armazenados pela  telemetria para buscar 
-              eficiência nos negócios.</p>
+            <p class="text-justify">Rastreie sua carga em tempo real, inclusive em áreas de sombra, 
+              acompanhe todo trajeto, paradas, desvio de rotas e velocidade média até o destino final. 
+              Com a  utilização de tecnologias avançadas para a coleta de dados, comunicação, 
+              processamento e armazenamento tenha toda informação na palma de sua mão, com facilidade 
+              e segurança. Compile os resultados analisando os dados capturados e armazenados 
+              pela telemetria para buscar eficiência nos negócios.</p>
           </div>
           <div class="col-12 col-sm-12 col-md-3">
             <h5>
@@ -187,11 +187,14 @@
           </div>
           <div class="col-12 col-sm-12 col-md-5">
             <h4 class="text-uppercase"> Autônomos: aplicativos ou caminhoneiros </h4>
-            <p class="text-justify">Motoristas autônomos dependem totalmente do carro ou caminhão para exercer sua atividade profissional.</p> 
-            <p class="text-justify">Só o sistema de rastreamento pode oferecer a tranquilidade aumentando substancialmente a possibilidade de 
-            recuperação do veículo em caso de roubo ou furto.</p> 
-            <p class="text-justify">Além disso, todos os dados do seu veiculo transformam-se em dados para que você torne seu negócio mais eficiente, 
-            obtendo mais resultados nas suas corridas ou viagens.</p>
+            <p class="text-justify">Motoristas autônomos dependem totalmente do carro ou 
+              caminhão para exercer sua atividade profissional e obter renda. 
+            Só o sistema de rastreamento pode oferecer substancialmente a 
+            possibilidade de recuperação do veículo tranquilidade, pois 
+            aumenta em caso de roubo ou furto.</p> 
+            <p class="text-justify">Além disso, todos os dados do seu veiculo 
+              transformam-se em informações para que você torne seu negócio mais 
+              eficiente, obtendo melhores resultados nas suas corridas ou viagens.</p>
           </div>
           <div class="col-12 col-sm-12 col-md-3">
             <h5>
