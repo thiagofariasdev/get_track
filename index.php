@@ -30,8 +30,8 @@
             <img src="/image/hands_on.jpg" class="img-fluid" alt="">
           </div>
           <div class="carousel-caption d-none d-md-block">
-            <h3 style="color: #fff;">...</h5>
-            <p>...</p>
+            <h3 class="text-uppercase" style="color: #fff;">Cobertura e agilidade</h5>
+            <p>Conheça nosso sistema de rastreamento</p>
           </div>
         </div>
       </div>

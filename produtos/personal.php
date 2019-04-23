@@ -15,7 +15,7 @@
           </div>
           <div class="col-12 col-sm-12 col-md-5">
             <h5 class="text-uppercase">Seu Carro</h5>
-            <p class="text-justify">Monitoramento, rastreamento e bl fs-1oqueio do
+            <p class="text-justify">Monitoramento, rastreamento e bloqueio do
               seu veículo, em caso de roubo ou furto.</p>
             <p class="text-justify">Você aciona o serviço de busca, disponível em
               toda América Latina, 24 horas 7 dias na semana
