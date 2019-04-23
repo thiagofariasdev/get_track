@@ -26,7 +26,7 @@
         <div class="col-md-5 mr-md-auto py-3">
             <span class="caption d-block mb-2 font-secondary font-weight-bold">Sobre a get track</span>
             <h2 class="site-section-heading text-uppercase font-secondary mb-5">Tecnologia</h2>
-            <p class="text-justify">Uma plataforma fácil de usar apresenta na palma de sua mão, pelo celular ou
+            <p class="text-justify">Uma plataforma fácil de usar, apresenta na palma de sua mão, pelo celular ou
             tablet, todo descolamento de seu veículo ou carga. Apresenta também
             relatórios de eficiência, checagem de itinerários, velocidade controlada,
             tempo de parada ou desvio de rotas previamente traçadas. 
@@ -42,7 +42,7 @@
     <div class="row border-responsive">
         <div class="col-md-6 col-lg-6 mb-4 mb-lg-0 border-right">
         <div class="text-center">
-            <i class="gt-eletric_mauer bl" style="font-size: 64px"></i>
+            <i class="gt-follow_car bl" style="font-size: 64px"></i>
             <h3 class="text-uppercase h4 mb-3 pt-3">Onde está seu veículo</h3>
             <p> Acompanhe em tempo real
             qualquer movimentação do

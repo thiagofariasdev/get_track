@@ -34,9 +34,9 @@
                   <td><i class="gt-follow_car bl fs-1"></i></td>
                   <td class="bl">Seguir meu carro</td>
                 </tr>
-                <tr title="Cerca eletronica" data-toggle="tooltip">
+                <tr title="Cerca eletrônica" data-toggle="tooltip">
                   <td><i class="gt-eletric_mauer bl fs-1"></i></td>
-                  <td class="bl">Cerca eletronica</td>
+                  <td class="bl">Cerca eletrônica</td>
                 </tr>
                 <tr title="Movimento não permitido" data-toggle="tooltip">
                   <td><i class="gt-denied_path bl fs-1"></i></td>
@@ -82,9 +82,9 @@
                   <td><i class="gt-follow_bike pnk fs-1"></i></td>
                   <td class="pnk">Seguir minha moto</td>
                 </tr>
-                <tr  title="Cerca eletronica" data-toggle="tooltip">
+                <tr  title="Cerca eletrônica" data-toggle="tooltip">
                   <td><i class="gt-eletric_mauer pnk fs-1"></i></td>
-                  <td class="pnk">Cerca eletronica</td>
+                  <td class="pnk">Cerca eletrônica</td>
                 </tr>
                 <tr title="Movimento não permitido" data-toggle="tooltip">
                   <td><i class="gt-denied_path pnk fs-1"></i></td>

@@ -66,9 +66,9 @@
                   <td><i class="gt-follow_fleet gr fs-1"></i></td>
                   <td class="gr">Seguir sua frota</td>
                 </tr>
-                <tr title="Cerca eletronica" data-toggle="tooltip">
+                <tr title="Cerca eletrônica" data-toggle="tooltip">
                   <td><i class="gt-eletric_mauer gr fs-1"></i></td>
-                  <td class="gr">Cerca eletronica</td>
+                  <td class="gr">Cerca eletrônica</td>
                 </tr>
                 <tr title="Movimento não permitido" data-toggle="tooltip">
                   <td><i class="gt-denied_path gr fs-1"></i></td>
@@ -120,7 +120,7 @@
             <p class="text-justify">Rastreie sua carga em tempo real, inclusive em áreas de sombra, 
               acompanhe todo trajeto, paradas, desvio de rotas e velocidade média até o destino final. 
               Com a  utilização de tecnologias avançadas para a coleta de dados, comunicação, 
-              processamento e armazenamento tenha toda informação na palma de sua mão, com facilidade 
+              processamento e armazenamento, tenha toda informação na palma de sua mão, com facilidade 
               e segurança. Compile os resultados analisando os dados capturados e armazenados 
               pela telemetria para buscar eficiência nos negócios.</p>
           </div>
@@ -133,10 +133,10 @@
                 <tr title="Seguir minha carga" data-toggle="tooltip">
                   <td><i class="gt-follow_charge or fs-1"></i></td>
                   <td class="or">Seguir minha carga</td>
-                </tr title="Cerca eletronica" data-toggle="tooltip">
+                </tr title="Cerca eletrônica" data-toggle="tooltip">
                 <tr>
                   <td><i class="gt-eletric_mauer or fs-1"></i></td>
-                  <td class="or">Cerca eletronica</td>
+                  <td class="or">Cerca eletrônica</td>
                 </tr>
                 <tr title="Trajeto fora da rota" data-toggle="tooltip">
                   <td><i class="gt-denied_path or fs-1"></i></td>
@@ -206,9 +206,9 @@
                   <td><i class="gt-follow_car bl fs-1"></i></td>
                   <td class="bl">Seguir meu veiculo</td>
                 </tr>
-                <tr title="Cerca eletronica" data-toggle="tooltip">
+                <tr title="Cerca eletrônica" data-toggle="tooltip">
                   <td><i class="gt-eletric_mauer bl fs-1"></i></td>
-                  <td class="bl">Cerca eletronica</td>
+                  <td class="bl">Cerca eletrônica</td>
                 </tr>
                 <tr title="Movimento não permitido" data-toggle="tooltip">
                   <td><i class="gt-denied_path bl fs-1"></i></td>
