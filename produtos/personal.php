@@ -3,7 +3,7 @@
 <head>
   <?php include('./../components/head.php') ?>
 </head>
-<body>
+<body style="background-image: url('image/header1.jpg');">
   <?php include('./../components/header.php') ?>
   <div class="site-wrap">
     <div class="site-section">
