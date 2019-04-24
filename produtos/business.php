@@ -10,11 +10,11 @@
       <div class="container">
         <div class="row">
           <div class="col-12 col-sm-12 col-md-4">
-            <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+            <div id="carouselExampleIndicators" style="max-height:340px;" class="carousel slide" data-ride="carousel">
               <div class="carousel-inner">
                 <div class="carousel-item active">
                   <div class="carbg">
-                    <img src="/image/car_fleet-min.jpg" class="img-fluid" alt="">
+                    <img src="/image/car_fleet-min.jpg" style="max-height:340px;" class="img-fluid" alt="">
                   </div>
                   <div class="carousel-caption">
                     <p>Carros</p>
@@ -22,7 +22,7 @@
                 </div>
                 <div class="carousel-item">
                   <div class="carbg">
-                    <img src="/image/truck_fleet-min.jpg" class="img-fluid" alt="">
+                    <img src="/image/truck_fleet-min.jpg" style="max-height:340px;" class="img-fluid" alt="">
                   </div>
                   <div class="carousel-caption">
                     <p>Caminhões</p>
@@ -92,16 +92,16 @@
         </div>
         <div class="row mt-5">
           <div class="col-12 col-sm-12 col-md-4">
-            <div id="carousel" class="carousel slide" data-ride="carousel">
+            <div id="carousel" style="max-height:287px;" class="carousel slide" data-ride="carousel">
               <div class="carousel-inner">
                 <div class="carousel-item active">
                   <div class="car-bg">
-                    <img src="/image/charge-min.jpg" class="img-fluid" alt="">
+                    <img src="/image/charge-min.jpg" style="max-height:287px;" class="img-fluid" alt="">
                   </div>
                 </div>
                 <div class="carousel-item">
                   <div class="carbg">
-                    <img src="/image/charge2-min.jpg" class="img-fluid" alt="">
+                    <img src="/image/charge2-min.jpg" style="max-height:287px;" class="img-fluid" alt="">
                   </div>
                 </div>
               </div>
@@ -160,16 +160,16 @@
         </div>
         <div class="row mt-5">
           <div class="col-12 col-sm-12 col-md-4">
-            <div id="carousel2" class="carousel slide" data-ride="carousel">
+            <div id="carousel2" style="max-height:340px;" class="carousel slide" data-ride="carousel">
               <div class="carousel-inner">
-                <div style="max-height:340px;" class="carousel-item active">
+                <div class="carousel-item active">
                   <div class="car-bg">
-                    <img src="/image/car-min.jpg" alt="Autônomo" class="img-fluid"/>
+                    <img src="/image/car-min.jpg" style="max-height:340px;" alt="Autônomo" class="img-fluid"/>
                   </div>
                 </div>
-                <div style="max-height:340px;" class="carousel-item">
+                <div class="carousel-item">
                   <div class="carbg">
-                    <img src="/image/trucks2-min.jpg" alt="Autônomo" class="img-fluid"/>
+                    <img src="/image/trucks2-min.jpg" style="max-height:340px;" alt="Autônomo" class="img-fluid"/>
                   </div>
                 </div>
               </div>
