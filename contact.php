@@ -35,7 +35,14 @@
                 <h4 style="font-family: 'Default Font';">Contato GetTrack</h4>
               </div>
               <div style="padding: 17px;">
-                <h5><span class="icon-mail_outline"></span> contato@gettrack.com.br</h5>
+                <h5>
+                  <a 
+                    href="mailto:contato@gettrack.com.br"
+                    target="_blanck"
+                  >
+                    <span class="icon-mail_outline"></span> contato@gettrack.com.br
+                  </a>
+                </h5>
                 <p><span class="icon-phone"></span> (51) 996323956</p>
               </div>
             </div>
