@@ -186,7 +186,7 @@
             
           </div>
           <div class="col-12 col-sm-12 col-md-5">
-            <h4 class="text-uppercase"> Autônomos: aplicativos ou caminhoneiros </h4>
+            <h4 class="text-uppercase"> Autônomos: motoristas de aplicativos ou caminhoneiros </h4>
             <p class="text-justify">Motoristas autônomos dependem totalmente do carro ou 
               caminhão para exercer sua atividade profissional e obter renda. 
             Só o sistema de rastreamento pode oferecer substancialmente a 
