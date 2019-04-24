@@ -133,8 +133,8 @@
                 <tr title="Seguir minha carga" data-toggle="tooltip">
                   <td><i class="gt-follow_charge or fs-1"></i></td>
                   <td class="or">Seguir minha carga</td>
-                </tr title="Cerca eletrônica" data-toggle="tooltip">
-                <tr>
+                </tr>
+                <tr title="Cerca eletrônica" data-toggle="tooltip">
                   <td><i class="gt-eletric_mauer or fs-1"></i></td>
                   <td class="or">Cerca eletrônica</td>
                 </tr>
