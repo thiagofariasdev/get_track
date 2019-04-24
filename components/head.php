@@ -88,11 +88,25 @@
   .gr{
     color: #72bf44;
   }
+  .fs-1{
+    font-size: 42px;
+  }
+  .fs-2{
+    font-size: 64px;
+  }
   .car-bg{
     display:flex;
     justify-content:center;
     align-items:center;
     background-color:#000;
+  }
+  .table td, .table th{
+    vertical-align: inherit !important;
+  }
+  .carousel-indicators li{
+    width: 15px !important;
+    height: 15px !important;
+    border-radius: 7.5px;
   }
 </style>
 <!-- Global site tag (gtag.js) - Google Analytics -->

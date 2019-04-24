@@ -11,20 +11,15 @@
 <script src="/js/aos.js"></script>
 <script src="/js/main.js"></script>
 <script>
-  var isIE = /*@cc_on!@*/false || !!document.documentMode;
-  var isFirefox = typeof InstallTrigger !== 'undefined';
-  var isEdge = !isIE && !!window.StyleMedia;
-  var isChrome = ((navigator.userAgent.toLowerCase().indexOf('chrome') > -1) &&(navigator.vendor.toLowerCase().indexOf("google") > -1));
-  var isSafari = /constructor/i.test(window.HTMLElement) || (function (p) { return p.toString() === "[object SafariRemoteNotification]"; })(!window['safari'] || safari.pushNotification);
-  var outp = {
-    fire:isFirefox,
-    edge: isEdge,
-    chrome: isChrome,
-    saf: isSafari
-  }
-  console.log(outp);
-  if(isFirefox || isEdge || isChrome) {
-  }else{
-    $('body').addClass('no-webp');
-  }
+  $('#showMoreBtn2').click(function(){
+    let txt = 'O equipamento instalado no seu veículo ou carga  e, também, '+
+                'o sistema de rastreamento foram desenvolvidos com as tecnologias mais ' +
+                'avançadas para a coleta de dados, incluindo a comunicação das informações '+
+                'das zonas de sombras, processamento, armazenamento de dados sobre o bem rastreado. '+
+                'Tudo isso para aumentar a segurança do seu patrimônio ou a eficiência no negócio, '+
+                'pela análise dos dados armazenados sobre o desempenho de sua frota.'
+    $('#showMore2').html(txt);
+    $('#showMoreBtn2').css('display', 'none');
+  });
+  
 </script>

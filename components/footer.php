@@ -21,9 +21,9 @@
         </div>
         <div class="col-md-12">
           <p>
-            <a href="#" class="pb-2 pr-2 pl-0"><span class="icon-facebook"></span></a>
-            <a href="#" class="p-2"><span class="icon-youtube"></span></a>
-            <a href="#" class="p-2"><span class="icon-instagram"></span></a>
+            <a href="https://www.facebook.com/Get-Track-1221925877984933/?modal=admin_todo_tour" class="pb-2 pr-2 pl-0"><span class="icon-facebook"></span></a>
+            <a href="https://www.youtube.com/channel/UCZrnCMazLpsq20_9-i1aYiw" class="p-2"><span class="icon-youtube"></span></a>
+            <a href="https://www.instagram.com/get_track/" class="p-2"><span class="icon-instagram"></span></a>
           </p>
         </div>
       </div>
