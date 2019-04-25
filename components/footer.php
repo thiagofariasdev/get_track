@@ -1,7 +1,7 @@
 <footer class="site-footer">
   <div class="container">
     <div class="row">
-      <div class="col-md-5">
+      <div class="col-md-4">
         <div class="row">
           <div class="col-md-6">
             <h3 class="footer-heading mb-4 text-white">Quick Menu</h3>
@@ -15,7 +15,7 @@
           </div>
         </div>
       </div>
-      <div class="col-md-6">
+      <div class="col-md-5">
         <div class="col-md-12">
           <h3 class="footer-heading mb-4 text-white">Social Icons</h3>
         </div>
@@ -35,6 +35,14 @@
             </a>
           </p>
         </div>
+      </div>
+      <div class="col-md-2">
+        <a href="https://play.google.com/store/apps/details?id=br.com.getrak.gconnect" target="_blank" rel="noopener noreferrer">
+          <img class="img-fluid mb-2" src="/image/google.png" alt="GOOGLE PLAY" />
+        </a>
+        <a href="https://itunes.apple.com/br/app/gconnect/id1051885508?mt=8" target="_blank" rel="noopener noreferrer">
+          <img class="img-fluid" src="/image/appstore.png" alt="APP STORE" />
+        </a>
       </div>
     </div>
     <div class="row pt-5 mt-5 text-center">
