@@ -1,0 +1,24 @@
+@font-face{
+  font-family: 'Default Font';
+  src: url(./../fonts/Gotham-Light.otf);
+}
+@font-face{
+  font-family: 'Font Bolder';
+  src: url(./../fonts/Gotham-Bold_0.otf);
+  font-weight: bolder;
+  font-style: normal;
+}
+@font-face{
+  font-family: 'Font Bold';
+  src: url(./../fonts/Gotham-Medium.otf);
+  font-weight: bold;
+  font-style: normal;
+}
+*{
+  font-family: 'Default Font' !important;
+  font-weight: normal;
+}
+h1, h2, h3, h4, h5{
+  font-family: 'Font Bold' !important;
+  font-weight: bold;
+}
