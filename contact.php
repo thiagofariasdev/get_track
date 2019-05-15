@@ -43,7 +43,7 @@
                     <span class="icon-mail_outline"></span> contato@gettrack.com.br
                   </a>
                 </h5>
-                <p><span class="icon-phone"></span> (51) 996323956</p>
+                <p><span class="icon-phone"></span> (51) 99710-0876 ou (51) 3072-5603</p>
               </div>
             </div>
           </div>
